@@ -12,19 +12,18 @@ import os
 # If you provide a URL, it clones the repo, fetches the commits and then deletes it,
 # so for a big project better clone the repo locally and provide filesystem path
 
-# from pydriller import Repository
-# DEVS = set()
-# for commit in Repository("https://github.com/dotnet-architecture/eShopOnContainers").traverse_commits():
-#     DEVS.add((commit.author.name, commit.author.email))
-#     DEVS.add((commit.committer.name, commit.committer.email))
-#
-# DEVS = sorted(DEVS)
-#
-# with open(os.path.join("project1devs", "devs.csv"), 'w', newline='') as csvfile:
-#     writer = csv.writer(csvfile, delimiter=',', quotechar='"')
-#     writer.writerow(["name", "email"])
-#     writer.writerows(DEVS)
-#
+from pydriller import Repository
+DEVS = set()
+for commit in Repository("https://github.com/dspsir/SMP-FFmpeg").traverse_commits():
+    DEVS.add((commit.author.name, commit.author.email))
+    DEVS.add((commit.committer.name, commit.committer.email))
+
+DEVS = sorted(DEVS)
+
+with open(os.path.join("project1devs", "devs.csv"), 'w', newline='', encoding='utf-8') as csvfile:
+    writer = csv.writer(csvfile, delimiter=',', quotechar='"')
+    writer.writerow(["name", "email"])
+    writer.writerows(DEVS)
 
 # This block of code reads an existing csv of developers
 
@@ -109,17 +108,17 @@ for dev_a, dev_b in combinations(DEVS, 2):
 cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
         "c3.1", "c3.2", "c4", "c5", "c6", "c7"]
 df = pd.DataFrame(SIMILARITY, columns=cols)
-df.to_csv(os.path.join("project1devs", "devs_similarity.csv"), index=False, header=True)
+#df.to_csv(os.path.join("project1devs", "devs_similarity.csv"), index=False, header=True)
 
 
 # Set similarity threshold, check c1-c3 against the threshold
-t=0.7
+t=0.9
 print("Threshold:", t)
 df["c1_check"] = df["c1"] >= t
 df["c2_check"] = df["c2"] >= t
 df["c3_check"] = (df["c3.1"] >= t) & (df["c3.2"] >= t)
-# Keep only rows where at least one condition is True
-df = df[df[["c1_check", "c2_check", "c3_check", "c4", "c5", "c6", "c7"]].any(axis=1)]
+
+df = df[df[["c1_check", "c2_check", "c3_check"]].any(axis=1)]
 
 # Omit "check" columns, save to csv
 df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",

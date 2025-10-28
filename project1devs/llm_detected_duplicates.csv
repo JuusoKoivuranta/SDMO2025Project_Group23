@@ -1,0 +1,10 @@
+<|end|><|start|>assistant<|channel|>final<|message|>name_1,email_1,name_2,email_2,confidence_reason
+Alexander Kravchenko,AAKravchenko@luxoft.com,Alexander Kravchenko,akravchenko188@gmail.com,"Same first/last name; two distinct corporate and personal addresses – highly likely the same person."
+Alexander Drozdov,adrozdoff@gmail.com,Alexander S. Drozdov,adrozdoff@gmail.com,"Exact same e‑mail with only a middle initial added – almost certain duplicate."
+Laurent Aimar,fenrir@elivagar.org,Laurent Aimar,fenrir@via.ecp.fr,"Same base address (fenrir) used on two different domains; common practice for the same developer."
+Laurent Aimar,fenrir@elivagar.org,Laurent Aimar,fenrir@videolan.org,"Same base address with three distinct domain suffixes – strongly indicates one person using multiple aliases."
+Paul B Mahol,onemda@gmail.com,Paul B. Mahol,onemda@gmail.com,"Identical e‑mail but name formatted differently (period vs none) – almost certainly the same individual."
+Thomas Mundt,loudmax-at-yahoo.de@ffmpeg.org,Thomas Mundt,loudmax@yahoo.de,"Same username 'loudmax' on two Yahoo‑derived addresses; very likely a single developer."
+Thomas Mundt,loudmax-at-yahoo.de@ffmpeg.org,Thomas Mundt,tmundt75@gmail.com,"Same name with three distinct e‑mail accounts – high confidence the same person."
+Tomas Härdin,Tomas.hardin@codemill.se,Tomas Härdin,tjoppen@acc.umu.se,"Identical name but two different addresses; both associated with the same project (Codemill) – strong indication of a single developer."
+David Bryant,david@WavPack.com,David Bryant,david@wavpack.com,"Same e‑mail differing only in case; duplicate record for one person."

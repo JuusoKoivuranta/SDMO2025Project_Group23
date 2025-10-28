@@ -1,0 +1,831 @@
+name_1,email_1,name_2,email_2,c1,c2,c3.1,c3.2,c4,c5,c6,c7
+Aaron Colwell,acolwell@chromium.org,Aaron Colwell,acolwell@google.com,1.0,1.0,1.0,1.0,True,False,True,False
+Adriano Pallavicino,adriano.pallavicino@gmail.com,Adriano Pallavicino,adrianopallavicino@gmail.com,1.0,0.972972972972973,1.0,1.0,True,True,True,True
+Agatha Hu,ahu@nvidia.com,agathah,ahu@nvidia.com,0.875,1.0,0.9230769230769231,0.0,True,False,False,False
+Alan Curry,pacman@TheWorld.com,Alan Curry,pacman@world.std.com,1.0,1.0,1.0,1.0,False,False,False,False
+Alberto Delmas,adelmas@gmail.com,Alberto Delmás,adelmas@gmail.com,1.0,1.0,1.0,1.0,True,False,True,False
+Alex Agranovsky,alex@sighthound.com,Alex Beregszaszi,alex@naxine.org,0.5161290322580645,1.0,1.0,0.2857142857142857,False,True,False,False
+Alex Agranovsky,alex@sighthound.com,Alex Beregszaszi,alex@rtfs.hu,0.5161290322580645,1.0,1.0,0.2857142857142857,False,True,False,False
+Alex Agranovsky,alex@sighthound.com,Alex Mogurenko,alex@mogurenko.com,0.6206896551724138,1.0,1.0,0.42105263157894735,False,True,False,False
+Alex Beregszaszi,alex@naxine.org,Alex Beregszaszi,alex@rtfs.hu,1.0,1.0,1.0,1.0,False,False,False,False
+Alex Beregszaszi,alex@naxine.org,Alex Mogurenko,alex@mogurenko.com,0.4666666666666667,1.0,1.0,0.19999999999999996,False,False,False,False
+Alex Beregszaszi,alex@rtfs.hu,Alex Mogurenko,alex@mogurenko.com,0.4666666666666667,1.0,1.0,0.19999999999999996,False,False,False,False
+Alex Cnverse,alex.converse@gmail.com,Alex Converse,aconverse@google.com,0.96,0.8181818181818181,1.0,0.9333333333333333,False,False,True,True
+Alex Cnverse,alex.converse@gmail.com,Alex Converse,alex.converse@gmail.com,0.96,1.0,1.0,0.9333333333333333,False,True,True,True
+Alex Cnverse,alex.converse@gmail.com,Alex Converse,alexconv@twitch.tv,0.96,0.7619047619047619,1.0,0.9333333333333333,False,True,True,True
+Alex Converse,aconverse@google.com,Alex Converse,alex.converse@gmail.com,1.0,0.8181818181818181,1.0,1.0,True,True,True,False
+Alex Converse,aconverse@google.com,Alex Converse,alexconv@twitch.tv,1.0,0.5882352941176471,1.0,1.0,False,True,True,False
+Alex Converse,alex.converse@gmail.com,Alex Converse,alexconv@twitch.tv,1.0,0.7619047619047619,1.0,1.0,False,True,True,True
+Alexander Drozdov,adrozdoff@gmail.com,Alexander S. Drozdov,adrozdoff@gmail.com,0.9444444444444444,1.0,1.0,0.875,False,False,False,False
+Alexander Kravchenko,AAKravchenko@luxoft.com,Alexander Kravchenko,akravchenko188@gmail.com,1.0,0.6923076923076923,1.0,1.0,True,False,False,False
+Alexandra Hajkova,alexandra@khirnov.net,Alexandra Hájková,alexandra.khirnova@gmail.com,1.0,0.6666666666666667,1.0,1.0,False,True,False,False
+Alexandra Hajkova,alexandra@khirnov.net,Alexandra Hájková,alexandra@khirnov.net,1.0,1.0,1.0,1.0,False,False,False,False
+Alexandra Hajkova,alexandra@khirnov.net,Alexandra Khirnova,alexandra@khirnov.net,0.8,1.0,1.0,0.5333333333333333,False,False,False,False
+Alexandra Hájková,alexandra.khirnova@gmail.com,Alexandra Hájková,alexandra@khirnov.net,1.0,0.6666666666666667,1.0,1.0,False,False,False,True
+Alexandra Hájková,alexandra.khirnova@gmail.com,Alexandra Khirnova,alexandra.khirnova@gmail.com,0.8,1.0,1.0,0.5333333333333333,False,True,True,True
+Alexandra Hájková,alexandra@khirnov.net,Alexandra Khirnova,alexandra@khirnov.net,0.8,1.0,1.0,0.5333333333333333,False,False,False,False
+Alexandra Khirnova,alexandra.khirnova@gmail.com,Alexandra Khirnova,alexandra@khirnov.net,1.0,0.6666666666666667,1.0,1.0,False,False,True,True
+Alexey Balekhov,a@balek.ru,Andrew Stone,a@stoney.io,0.2962962962962963,1.0,0.33333333333333337,0.15384615384615385,False,False,False,False
+Alexis Ballier,aballier@gentoo.org,Alexis Ballier,alexis.ballier@gmail.com,1.0,0.7272727272727273,1.0,1.0,True,True,True,False
+Allan Hsu,allan@counterpop.net,Allan Kristensen,allank@tigerdyr.com,0.56,0.9090909090909091,1.0,0.15384615384615385,False,False,False,False
+Aman Gupta,aman at tmm1.net,Aman Gupta,aman@tmm1.net,1.0,0.4,1.0,1.0,False,False,False,False
+Aman Gupta,aman at tmm1.net,Aman Gupta,ffmpeg@tmm1.net,1.0,0.18181818181818177,1.0,1.0,False,False,False,False
+Aman Gupta,aman@tmm1.net,Aman Gupta,ffmpeg@tmm1.net,1.0,0.19999999999999996,1.0,1.0,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,ArnoB,ffmpeg@rgbaz.eu,0.2666666666666667,1.0,0.4444444444444444,0.0,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Geek.Song,ffmpeg@gmail.com,0.2222222222222222,1.0,0.16666666666666663,0.0,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Gyan Doshi,ffmpeg@gyani.pro,0.30000000000000004,1.0,0.5,0.0,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Isaac Dooley,ffmpeg@isaacdooley.com,0.2727272727272727,1.0,0.4444444444444444,0.0,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Jeremy Morton,ffmpeg@game-point.net,0.26086956521739135,1.0,0.19999999999999996,0.18181818181818177,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Marcus Engene,ffmpeg@engene.se,0.34782608695652173,1.0,0.4,0.18181818181818177,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,0.31999999999999995,1.0,0.36363636363636365,0.16666666666666663,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Nicolas Frattaroli,ffmpeg@fratti.ch,0.2857142857142857,1.0,0.18181818181818177,0.2666666666666667,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,Roumen Petrov,ffmpeg@roumenpetrov.info,0.4347826086956522,1.0,0.4,0.36363636363636365,False,False,False,False
+Aman Gupta,ffmpeg@tmm1.net,avcoder,ffmpeg@gmail.com,0.11764705882352944,1.0,0.18181818181818177,0.0,False,False,False,False
+Anatoly Nenashev,anatoly.nenashev@ovsoft.ru,Anatoly Nenashev,nenashev_as@mail.ru,1.0,0.5925925925925926,1.0,1.0,True,False,True,True
+Anatoly Nenashev,anatoly.nenashev@ovsoft.ru,anatoly,anatoly.nenashev at,0.6086956521739131,0.9142857142857143,1.0,0.0,True,True,False,False
+Anatoly Nenashev,anatoly.nenashev@ovsoft.ru,anatoly,anatoly.nenashev@ovsoft.ru,0.6086956521739131,1.0,1.0,0.0,True,True,False,False
+Andreas Cadhalpun,Andreas.Cadhalpun@googlemail.com,Andreas Cadhalpun,andreas.cadhalpun@gmail.com,1.0,0.8823529411764706,1.0,1.0,True,True,False,False
+Andreas Cadhalpun,Andreas.Cadhalpun@googlemail.com,Andreas Cadhalpun,andreas.cadhalpun@googlemail.com,1.0,0.8823529411764706,1.0,1.0,True,True,False,False
+Andreas Cadhalpun,andreas.cadhalpun@gmail.com,Andreas Cadhalpun,andreas.cadhalpun@googlemail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Andreas Hakon,andreas.hakon@protonmail.com,Andreas Håkon,andreas.hakon@protonmail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Andreas Rheinhardt,andreas.rheinhardt@gmail.com,Andreas Rheinhardt,andreas.rheinhardt@googlemail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Andreas Rheinhardt via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Jeremy Dorfman via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,0.65625,1.0,0.3076923076923077,0.7346938775510203,False,False,False,False
+Andreas Rheinhardt via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Nikolas Bowe via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,0.6774193548387097,1.0,0.4285714285714286,0.7391304347826086,False,False,False,False
+Andreas Rheinhardt via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Sam John via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,0.6896551724137931,1.0,0.19999999999999996,0.782608695652174,False,False,False,False
+Andreas Rheinhardt via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Simon Thelen,ffmpeg-dev@c-14.de,0.26086956521739135,0.9090909090909091,0.16666666666666663,0.1875,False,False,False,False
+Andreas Rheinhardt via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Vittorio Gambaletta (VittGam),ffmpeg-dev@vittgam.net,0.29508196721311475,0.9090909090909091,0.1333333333333333,0.31818181818181823,False,False,False,False
+Andreas Weis,github@ghulbus-inc.de,Konrad Iturbe,github@chernowii.com,0.4,1.0,0.46153846153846156,0.19999999999999996,False,False,False,False
+Andreas Öman,andreas@lonelycoder.com,Andreas Öman,andreas@olebyn.nu,1.0,1.0,1.0,1.0,False,False,False,False
+Andrew Stone,a@stoney.io,Andrew Stone,andrew@clovar.com,1.0,0.2857142857142857,1.0,1.0,False,False,False,False
+Andrew Stone,andrew@clovar.com,André Pankratz,andre@webwarelab.com,0.5384615384615384,0.9090909090909091,0.9090909090909091,0.15384615384615385,False,False,False,False
+Andrey Semashev,andrey.semashev@gmail.com,Andrey Semashev,andysem@mail.ru,1.0,0.6363636363636364,1.0,1.0,False,False,True,True
+Andrey Utkin,andrey.krieger.utkin@gmail.com,Andrey Utkin,andrey.od.utkin@gmail.com,1.0,0.7428571428571429,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.krieger.utkin@gmail.com,Andrey Utkin,andrey.utkin@corp.bluecherry.net,1.0,0.75,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.krieger.utkin@gmail.com,Andrey Utkin,andrey.utkin@pb.com,1.0,0.75,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.krieger.utkin@gmail.com,Andrey Utkin,andrey_utkin@fastmail.com,1.0,0.6875,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.od.utkin@gmail.com,Andrey Utkin,andrey.utkin@corp.bluecherry.net,1.0,0.8888888888888888,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.od.utkin@gmail.com,Andrey Utkin,andrey.utkin@pb.com,1.0,0.8888888888888888,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.od.utkin@gmail.com,Andrey Utkin,andrey_utkin@fastmail.com,1.0,0.8148148148148149,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.utkin@corp.bluecherry.net,Andrey Utkin,andrey.utkin@pb.com,1.0,1.0,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.utkin@corp.bluecherry.net,Andrey Utkin,andrey_utkin@fastmail.com,1.0,0.9166666666666666,1.0,1.0,True,True,True,True
+Andrey Utkin,andrey.utkin@pb.com,Andrey Utkin,andrey_utkin@fastmail.com,1.0,0.9166666666666666,1.0,1.0,True,True,True,True
+Andriy Lysnevych,andriy.lysnevych@gmail.com,mrlika,andriy.lysnevych@gmail.com,0.18181818181818177,1.0,0.33333333333333337,0.0,True,True,False,False
+Andy,andyndeanna@gmail.com,Andy Martin,andyndeanna@gmail.com,0.5333333333333333,1.0,1.0,0.0,False,False,False,False
+Anshul,er.anshul.maheshwari@gmail.com,Anshul Maheshwari,er.anshul.maheshwari@gmail.com,0.5217391304347826,1.0,1.0,0.0,False,False,True,True
+Anshul Maheshwari,anshul.ffmpeg@gmail.com,Anshul Maheshwari,er.anshul.maheshwari@gmail.com,1.0,0.5454545454545454,1.0,1.0,True,True,False,True
+Anshul Maheshwari,anshul.ffmpeg@gmail.com,Anshul Maheswhwari,anshul.ffmpeg@gmail.com,0.9714285714285714,1.0,1.0,0.9523809523809523,False,True,False,True
+Anshul Maheshwari,er.anshul.maheshwari@gmail.com,Anshul Maheswhwari,anshul.ffmpeg@gmail.com,0.9714285714285714,0.5454545454545454,1.0,0.9523809523809523,False,True,False,True
+Anton Khirnov,anton@khirnov.net,Anton Khirnov,wyskas@gmail.com,1.0,0.18181818181818177,1.0,1.0,False,False,False,False
+Anton Khirnov,anton@khirnov.net,Anton Platov,anton@platov.net,0.64,1.0,1.0,0.3076923076923077,False,False,False,False
+Antonio Ospite,ao2@ao2.it,Antonio Ospite,ospite@studenti.unina.it,1.0,0.2222222222222222,1.0,1.0,False,False,False,False
+Arne de Bruijn,mail@arnedebruijn.nl,Shitiz Garg,mail@dragooon.net,0.16000000000000003,1.0,0.0,0.15384615384615385,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Geek.Song,ffmpeg@gmail.com,0.15384615384615385,1.0,0.15384615384615385,1.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Gyan Doshi,ffmpeg@gyani.pro,0.4,1.0,0.4444444444444444,0.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Isaac Dooley,ffmpeg@isaacdooley.com,0.23529411764705888,1.0,0.19999999999999996,0.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Jeremy Morton,ffmpeg@game-point.net,0.2222222222222222,1.0,0.18181818181818177,0.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Marcus Engene,ffmpeg@engene.se,0.33333333333333337,1.0,0.36363636363636365,0.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,0.19999999999999996,1.0,0.16666666666666663,0.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Nicolas Frattaroli,ffmpeg@fratti.ch,0.26086956521739135,1.0,0.33333333333333337,0.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,Roumen Petrov,ffmpeg@roumenpetrov.info,0.33333333333333337,1.0,0.36363636363636365,0.0,False,False,False,False
+ArnoB,ffmpeg@rgbaz.eu,avcoder,ffmpeg@gmail.com,0.33333333333333337,1.0,0.33333333333333337,1.0,False,False,False,False
+Art Clarke,aclarke@vlideshow.com,Art Clarke,aclarke@xuggle.com,1.0,1.0,1.0,1.0,True,False,True,False
+Arwa Arif,arwaarif1994@gmail.com,arwa arif,arwaarif1994@gmail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Ashish Pratap Singh,ashk43712@gmail.com,Ashish Singh,ashk43712@gmail.com,0.7741935483870968,1.0,1.0,0.5882352941176471,False,False,False,False
+BERO,bero@geocities.co.jp,Bernhard Rosenkränzer,bero@arklinux.org,0.31999999999999995,1.0,0.5,0.0,False,False,False,False
+BIGLER Don (Framatome),don.bigler@framatome.com,Don C. Bigler,don.bigler@framatome.com,0.375,1.0,0.0,0.19047619047619047,False,True,False,False
+Balint Marton,cus@passwd.hu,Marton Balint,cus@passwd.hu,0.46153846153846156,1.0,0.33333333333333337,0.33333333333333337,False,False,False,False
+Baptiste Coudurier,baptiste.coudurier@gmail.com,Baptiste Coudurier,baptiste.coudurier@smartjog.com,1.0,1.0,1.0,1.0,True,True,True,True
+Bartlomiej Wolowiec,bartek.wolowiec@gmail.com,Bartłomiej Wołowiec,bartek.wolowiec@gmail.com,0.8947368421052632,1.0,0.9,0.875,True,False,False,False
+Bela Bodecs,bodecsb@vivanet.hu,Bodecs Bela,bodecsb@vivanet.hu,0.5454545454545454,1.0,0.4,0.4,True,False,False,True
+Ben Hagen,ben@kamerawerk.ch,Ben Hagen,c.ben.hagen@gmail.com,1.0,0.4285714285714286,1.0,1.0,True,True,False,False
+Ben Hagen,ben@kamerawerk.ch,Ben Hutchings,ben@decadent.org.uk,0.5454545454545454,1.0,1.0,0.2857142857142857,False,False,False,False
+Ben Hagen,ben@kamerawerk.ch,Ben Jackson,ben@ben.com,0.6,1.0,1.0,0.33333333333333337,False,False,False,False
+Ben Hagen,ben@kamerawerk.ch,Benjamin Zores,ben@geexbox.org,0.4347826086956522,1.0,0.5454545454545454,0.19999999999999996,False,False,False,False
+Ben Hutchings,ben@decadent.org.uk,Ben Jackson,ben@ben.com,0.5,1.0,1.0,0.25,False,False,False,False
+Ben Hutchings,ben@decadent.org.uk,Benjamin Zores,ben@geexbox.org,0.4444444444444444,1.0,0.5454545454545454,0.1428571428571429,False,False,False,False
+Ben Jackson,ben@ben.com,Benjamin Zores,ben@geexbox.org,0.48,1.0,0.5454545454545454,0.16666666666666663,False,False,False,False
+Ben Littler,tempn@twmi.rr.com,Compn,tempn@twmi.rr.com,0.125,1.0,0.25,0.0,False,False,False,False
+Ben Littler,tempn@twmi.rr.com,compn,tempn@mi.rr.com,0.125,1.0,0.25,0.0,False,False,False,False
+Ben Littler,tempn@twmi.rr.com,compn,tempn@twmi.rr.com,0.125,1.0,0.25,0.0,False,False,False,False
+Benjamin Larsson,banan@ludd.ltu.se,Benjamin Larsson,benjamin@southpole.se,1.0,0.6153846153846154,1.0,1.0,False,False,False,False
+Benoit Fouet,benoit.fouet@free.fr,Benoit Fouet,benoit.fouet@purplelabs.com,1.0,1.0,1.0,1.0,True,True,True,True
+Billy Shambrook,billy.shambrook@gmail.com,Billy Shambrook,billy.shambrook@saffrondigital.com,1.0,1.0,1.0,1.0,True,True,True,True
+Björn Axelsson,bjorn.axelsson@intinor.se,Björn Axelsson,gecko@acc.umu.se,1.0,0.21052631578947367,1.0,1.0,False,False,True,True
+Boris Maksalov,boris.maksalov@yandex.ru,Maksalov Boris,boris.maksalov@yandex.ru,0.5714285714285714,1.0,0.15384615384615385,0.15384615384615385,True,True,True,True
+Boris Nagels,develop@focusware.nl,Eugene Dzhurinsky,jdevelop@gmail.com,0.27586206896551724,0.9333333333333333,0.0,0.25,False,False,False,False
+Brad,brad@comstyle.com,Brad Smith,brad@comstyle.com,0.5714285714285714,1.0,1.0,0.0,False,False,False,False
+Byte,hzdbyte@gmail.com,Valeriy Argunov,hzdbyte@gmail.com,0.10526315789473684,1.0,0.18181818181818177,0.0,False,False,False,False
+Carl Eugen Hoyos,ceffmpeg@gmail.com,Carl Eugen Hoyos,cehoyos@ag.or.at,1.0,0.2666666666666667,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,ceffmpeg@gmail.com,Carl Eugen Hoyos,cehoyos@lisbeth.(none),1.0,0.2666666666666667,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,ceffmpeg@gmail.com,Carl Eugen Hoyos,cehoyos@minerva.hye,1.0,0.2666666666666667,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,ceffmpeg@gmail.com,Carl Eugen Hoyos,cehoyos@rainbow.studorg.tuwien.ac.at,1.0,0.2666666666666667,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,cehoyos@ag.or.at,Carl Eugen Hoyos,cehoyos@lisbeth.(none),1.0,1.0,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,cehoyos@ag.or.at,Carl Eugen Hoyos,cehoyos@minerva.hye,1.0,1.0,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,cehoyos@ag.or.at,Carl Eugen Hoyos,cehoyos@rainbow.studorg.tuwien.ac.at,1.0,1.0,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,cehoyos@lisbeth.(none),Carl Eugen Hoyos,cehoyos@minerva.hye,1.0,1.0,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,cehoyos@lisbeth.(none),Carl Eugen Hoyos,cehoyos@rainbow.studorg.tuwien.ac.at,1.0,1.0,1.0,1.0,False,False,False,False
+Carl Eugen Hoyos,cehoyos@minerva.hye,Carl Eugen Hoyos,cehoyos@rainbow.studorg.tuwien.ac.at,1.0,1.0,1.0,1.0,False,False,False,False
+Carl Hetherington,lists@carlh.net,Keiji Costantini,lists@strites.net,0.303030303030303,1.0,0.0,0.36363636363636365,False,False,False,False
+Carl Hetherington,lists@carlh.net,Morten Hustveit,lists@rashbox.org,0.4375,1.0,0.19999999999999996,0.5,False,False,False,False
+Carl Hetherington,lists@carlh.net,Reto Kromer,lists@reto.ch,0.3571428571428571,1.0,0.25,0.2222222222222222,False,False,False,False
+Carl Hetherington,lists@carlh.net,Wim Vander Schelden,lists@fixnum.org,0.38888888888888884,1.0,0.0,0.2962962962962963,False,False,False,False
+"Ching Yi, Chan",chingyichan.tw@gmail.com,qrtt1,chingyichan.tw@gmail.com,0.0,1.0,0.0,0.0,False,True,False,False
+Chris Cunningham,chcunningham@chromium.org,chcunningham,chcunningham@chromium.org,0.8571428571428572,1.0,0.3529411764705882,0.0,True,False,False,False
+Christian Suloway,csuloway@globaleagleent.com,Christian Suloway,csuloway@row44.com,1.0,1.0,1.0,1.0,True,False,True,False
+Christophe GISQUET,christophe.gisquet@gmail.com,Christophe Gisquet,Christophe.Gisquet@gmail.com,1.0,0.8888888888888888,1.0,1.0,False,False,True,True
+Christophe GISQUET,christophe.gisquet@gmail.com,Christophe Gisquet,christophe.gisquet@free.fr,1.0,1.0,1.0,1.0,True,True,True,True
+Christophe GISQUET,christophe.gisquet@gmail.com,Christophe Gisquet,christophe.gisquet@gmail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Christophe Gisquet,Christophe.Gisquet@gmail.com,Christophe Gisquet,christophe.gisquet@free.fr,1.0,0.8888888888888888,1.0,1.0,True,True,False,False
+Christophe Gisquet,Christophe.Gisquet@gmail.com,Christophe Gisquet,christophe.gisquet@gmail.com,1.0,0.8888888888888888,1.0,1.0,True,True,False,False
+Christophe Gisquet,christophe.gisquet@free.fr,Christophe Gisquet,christophe.gisquet@gmail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Christophe Massiot,cmassiot@freebox.fr,Christophe Massiot,massiot@via.ecp.fr,1.0,0.9333333333333333,1.0,1.0,False,False,True,False
+Claudio Freire,claudiofreire@klaumptop.jampp.local,Claudio Freire,klaussfreire@gmail.com,1.0,0.72,1.0,1.0,False,False,True,True
+Clément Bœsch,cboesch@gopro.com,Clément Bœsch,clement.boesch@smartjog.com,1.0,0.6666666666666667,1.0,1.0,False,True,False,False
+Clément Bœsch,cboesch@gopro.com,Clément Bœsch,clement@stupeflix.com,1.0,0.2857142857142857,1.0,1.0,False,False,False,False
+Clément Bœsch,cboesch@gopro.com,Clément Bœsch,u@pkh.me,1.0,0.0,1.0,1.0,False,False,False,False
+Clément Bœsch,cboesch@gopro.com,Clément Bœsch,ubitux@gmail.com,1.0,0.15384615384615385,1.0,1.0,False,False,False,False
+Clément Bœsch,clement.boesch@smartjog.com,Clément Bœsch,clement@stupeflix.com,1.0,0.6666666666666667,1.0,1.0,False,False,False,True
+Clément Bœsch,clement.boesch@smartjog.com,Clément Bœsch,u@pkh.me,1.0,0.0,1.0,1.0,False,False,False,True
+Clément Bœsch,clement.boesch@smartjog.com,Clément Bœsch,ubitux@gmail.com,1.0,0.09999999999999998,1.0,1.0,False,False,False,True
+Clément Bœsch,clement@stupeflix.com,Clément Bœsch,u@pkh.me,1.0,0.0,1.0,1.0,False,False,False,False
+Clément Bœsch,clement@stupeflix.com,Clément Bœsch,ubitux@gmail.com,1.0,0.15384615384615385,1.0,1.0,False,False,False,False
+Clément Bœsch,u@pkh.me,Clément Bœsch,ubitux@gmail.com,1.0,0.2857142857142857,1.0,1.0,False,False,False,False
+Compn,tempn@twmi.rr.com,compn,tempn@mi.rr.com,1.0,1.0,1.0,1.0,False,False,False,False
+Compn,tempn@twmi.rr.com,compn,tempn@twmi.rr.com,1.0,1.0,1.0,1.0,False,False,False,False
+DHE,git@dehacked.net,DeHackEd,git@dehacked.net,0.5454545454545454,1.0,0.5454545454545454,1.0,False,False,False,False
+DHE,git@dehacked.net,FearThe1337,git@fearthe1337.com,0.2857142857142857,1.0,0.2857142857142857,1.0,False,False,False,False
+DHE,git@dehacked.net,Gwenole Beauchesne,git@videolan.org,0.19047619047619047,1.0,0.19999999999999996,0.0,False,False,False,False
+DHE,git@dehacked.net,James Zern,git@videolan.org,0.15384615384615385,1.0,0.25,0.0,False,False,False,False
+DHE,git@dehacked.net,Niklas Haas,git@haasn.xyz,0.1428571428571429,1.0,0.0,0.0,False,False,False,False
+DHE,git@dehacked.net,Niklas Haas,git@nand.wakku.to,0.1428571428571429,1.0,0.0,0.0,False,False,False,False
+DHE,git@dehacked.net,Reimar Döffinger,git@videolan.org,0.21052631578947367,1.0,0.2222222222222222,0.0,False,False,False,False
+Dale Curtis,dalecurtis@chromium.org,Dale Curtis,dalecurtis@google.com,1.0,1.0,1.0,1.0,True,True,True,True
+Dan Christiansen,danchr@daimi.au.dk,Dan Villiom Podlaski Christiansen,danchr@daimi.au.dk,0.653061224489796,1.0,1.0,0.5853658536585367,False,True,False,False
+Dan Dennedy,dan@dennedy.org,Dan Dennedy,ddennedy@gmail.com,1.0,0.36363636363636365,1.0,1.0,True,False,False,True
+Dan Dennedy,dan@dennedy.org,Daniel G. Taylor,dan@programmer-art.org,0.3846153846153846,1.0,0.6666666666666667,0.1333333333333333,False,True,False,False
+Dan Dennedy,dan@dennedy.org,danielgtaylor,dan@programmer-art.org,0.41666666666666663,1.0,0.375,0.0,False,True,False,False
+Dan Maas,dmaas@maasdigital.com,Daniel Maas,dmaas@maasdigital.com,0.8421052631578947,1.0,0.6666666666666667,1.0,True,False,True,False
+Daniel G. Taylor,dan@programmer-art.org,danielgtaylor,dan@programmer-art.org,0.9285714285714286,1.0,0.631578947368421,0.0,False,False,False,False
+Daniel Kristjansson,danielk@cuymedia.net,Daniel Kristjansson,danielk@mrl.nyu.edu,1.0,1.0,1.0,1.0,False,True,False,True
+Daniel Kristjansson,danielk@cuymedia.net,Daniel Kristjansson,dkristjansson@mythtv.org,1.0,0.30000000000000004,1.0,1.0,True,False,False,True
+Daniel Kristjansson,danielk@cuymedia.net,Daniel Molkentin,daniel@molkentin.de,0.5714285714285714,0.9230769230769231,1.0,0.2857142857142857,False,False,False,False
+Daniel Kristjansson,danielk@cuymedia.net,Daniel Oberhoff,daniel@danieloberhoff.de,0.5294117647058824,0.9230769230769231,1.0,0.19999999999999996,False,False,False,False
+Daniel Kristjansson,danielk@cuymedia.net,Daniel Verkamp,daniel@drv.nu,0.5454545454545454,0.9230769230769231,1.0,0.21052631578947367,False,False,False,False
+Daniel Kristjansson,danielk@mrl.nyu.edu,Daniel Kristjansson,dkristjansson@mythtv.org,1.0,0.30000000000000004,1.0,1.0,True,False,False,True
+Daniel Kristjansson,danielk@mrl.nyu.edu,Daniel Molkentin,daniel@molkentin.de,0.5714285714285714,0.9230769230769231,1.0,0.2857142857142857,False,False,False,False
+Daniel Kristjansson,danielk@mrl.nyu.edu,Daniel Oberhoff,daniel@danieloberhoff.de,0.5294117647058824,0.9230769230769231,1.0,0.19999999999999996,False,False,False,False
+Daniel Kristjansson,danielk@mrl.nyu.edu,Daniel Verkamp,daniel@drv.nu,0.5454545454545454,0.9230769230769231,1.0,0.21052631578947367,False,False,False,False
+Daniel Molkentin,daniel@molkentin.de,Daniel Oberhoff,daniel@danieloberhoff.de,0.5806451612903225,1.0,1.0,0.23529411764705888,False,False,False,False
+Daniel Molkentin,daniel@molkentin.de,Daniel Verkamp,daniel@drv.nu,0.5333333333333333,1.0,1.0,0.125,False,False,False,False
+Daniel Oberhoff,daniel@danieloberhoff.de,Daniel Oberhoff,danieloberhoff@googlemail.com,1.0,0.6,1.0,1.0,True,True,False,False
+Daniel Oberhoff,daniel@danieloberhoff.de,Daniel Verkamp,daniel@drv.nu,0.6206896551724138,1.0,1.0,0.2666666666666667,False,False,False,False
+Dave Rice,dave@dericed.com,David DeHaven,dave@sagetv.com,0.4545454545454546,1.0,0.6666666666666667,0.18181818181818177,False,False,False,False
+Dave Rice,dave@dericed.com,David Mitchell,dave@fallingcanbedeadly.com,0.6086956521739131,1.0,0.6666666666666667,0.5,False,False,False,False
+Dave Rice,dave@dericed.com,dericed,dave@dericed.com,0.75,1.0,0.36363636363636365,0.0,False,False,False,False
+Dave Yeo,dave.r.yeo@gmail.com,Dave Yeo,daveryeo@telus.net,1.0,0.8888888888888888,1.0,1.0,True,True,True,True
+David A. Sedacca,sedacca@comcast.net,sedacca@comcast.net,sedacca@comcast.net,0.4375,1.0,0.18181818181818177,0.0,False,False,False,False
+David Bolt,,Edouard Gomez,,0.4347826086956522,1.0,0.5,0.2222222222222222,False,False,False,False
+David Bolt,,Godwin Stewart,,0.33333333333333337,1.0,0.36363636363636365,0.18181818181818177,False,False,False,False
+David Bolt,,Google,,0.25,1.0,0.0,0.0,False,False,False,False
+David Bolt,,Google Chrome,,0.17391304347826086,1.0,0.0,0.19999999999999996,False,False,False,False
+David Bolt,,Gordon Irlam,,0.2727272727272727,1.0,0.18181818181818177,0.2222222222222222,False,False,False,False
+David Bolt,,Josh Coalson,,0.2727272727272727,1.0,0.0,0.36363636363636365,False,False,False,False
+David Bolt,,NVIDIA Corporation,,0.4285714285714286,1.0,0.5454545454545454,0.2666666666666667,False,False,False,False
+David Bolt,,Stephen Warren,,0.08333333333333337,1.0,0.0,0.0,False,False,False,False
+David Bolt,,Steven Johnson,,0.25,1.0,0.18181818181818177,0.18181818181818177,False,False,False,False
+David Bolt,,Sysiphus,,0.11111111111111116,1.0,0.15384615384615385,0.0,False,False,False,False
+David Bolt,,XBMC,,0.1428571428571429,1.0,0.0,0.0,False,False,False,False
+David Bolt,,anonymous,,0.21052631578947367,1.0,0.1428571428571429,0.0,False,False,False,False
+David Bolt,,mplayer developers,@mplayerhq.hu,0.2142857142857143,1.0,0.16666666666666663,0.1428571428571429,False,False,False,False
+David Bryant,david@WavPack.com,David Bryant,david@wavpack.com,1.0,1.0,1.0,1.0,False,False,False,False
+David Bryant,david@WavPack.com,David Monro,davidm@davidmonro.net,0.6086956521739131,0.9090909090909091,1.0,0.18181818181818177,False,False,False,False
+David Bryant,david@WavPack.com,David Murmann,david@btf.de,0.72,1.0,1.0,0.46153846153846156,False,False,False,False
+David Bryant,david@wavpack.com,David Monro,davidm@davidmonro.net,0.6086956521739131,0.9090909090909091,1.0,0.18181818181818177,False,False,False,False
+David Bryant,david@wavpack.com,David Murmann,david@btf.de,0.72,1.0,1.0,0.46153846153846156,False,False,False,False
+David Conrad,davedc@kozue.local,David Conrad,lessen42@gmail.com,1.0,0.1428571428571429,1.0,1.0,False,False,False,False
+David DeHaven,dave@sagetv.com,David Mitchell,dave@fallingcanbedeadly.com,0.5925925925925926,1.0,1.0,0.2666666666666667,False,False,False,False
+David DeHaven,dave@sagetv.com,dericed,dave@dericed.com,0.30000000000000004,1.0,0.5,0.0,False,False,False,False
+David Kment,info@davidkment.de,Rick van der Zwet,info@rickvanderzwet.nl,0.3571428571428571,1.0,0.2222222222222222,0.23529411764705888,False,False,False,False
+David Mitchell,dave@fallingcanbedeadly.com,dericed,dave@dericed.com,0.38095238095238093,1.0,0.5,0.0,False,False,False,False
+David Monro,davidm@davidmonro.net,David Murmann,david@btf.de,0.6666666666666667,0.9090909090909091,1.0,0.33333333333333337,False,False,False,True
+Davinder Singh,ds.mudhar@gmail.com,dsmudhar,ds.mudhar@gmail.com,0.2727272727272727,1.0,0.375,0.0,False,False,False,False
+DeHackEd,git@dehacked.net,FearThe1337,git@fearthe1337.com,0.3157894736842105,1.0,0.3157894736842105,1.0,False,False,False,False
+DeHackEd,git@dehacked.net,Gwenole Beauchesne,git@videolan.org,0.3076923076923077,1.0,0.2666666666666667,0.0,False,False,False,False
+DeHackEd,git@dehacked.net,James Zern,git@videolan.org,0.2222222222222222,1.0,0.3076923076923077,0.0,False,False,False,False
+DeHackEd,git@dehacked.net,Niklas Haas,git@haasn.xyz,0.21052631578947367,1.0,0.1428571428571429,0.0,False,False,False,False
+DeHackEd,git@dehacked.net,Niklas Haas,git@nand.wakku.to,0.21052631578947367,1.0,0.1428571428571429,0.0,False,False,False,False
+DeHackEd,git@dehacked.net,Reimar Döffinger,git@videolan.org,0.25,1.0,0.2857142857142857,0.0,False,False,False,False
+Denis Fortin,fortin@nerim.net,Fortin Denis,fortin@nerim.net,0.5,1.0,0.18181818181818177,0.18181818181818177,False,False,False,False
+Deti Fliegl,deti@fliegl.de,Deti fliegl,fliegl@baycom.de,1.0,0.19999999999999996,1.0,1.0,False,False,False,False
+Diego Elio 'Flameeyes' Pettenò,flameeyes@gmail.com,Diego Elio Pettenò,flameeyes@flameeyes.eu,0.782608695652174,1.0,1.0,0.7058823529411764,False,False,False,False
+Diego Elio 'Flameeyes' Pettenò,flameeyes@gmail.com,Diego Elio Pettenò,flameeyes@gmail.com,0.782608695652174,1.0,1.0,0.7058823529411764,False,False,False,False
+Diego Elio 'Flameeyes' Pettenò,flameeyes@gmail.com,Diego Pettenò,flameeyes@gmail.com,0.6341463414634146,1.0,1.0,0.48275862068965514,False,False,False,False
+Diego Elio Pettenò,flameeyes@flameeyes.eu,Diego Elio Pettenò,flameeyes@gmail.com,1.0,1.0,1.0,1.0,False,False,False,False
+Diego Elio Pettenò,flameeyes@flameeyes.eu,Diego Pettenò,flameeyes@gmail.com,0.8387096774193549,1.0,1.0,0.736842105263158,False,False,False,False
+Diego Elio Pettenò,flameeyes@gmail.com,Diego Pettenò,flameeyes@gmail.com,0.8387096774193549,1.0,1.0,0.736842105263158,False,False,False,False
+Dominique Leuenberger,dominique-ffmpeg-devel@leuenberger.net,Dominique Leuenberger,dominique@leuenberger.net,1.0,0.5806451612903225,1.0,1.0,False,False,False,True
+Dustin Brody,libav@parsoma.net,Ico Doornekamp,libav@zevv.nl,0.23076923076923073,1.0,0.2222222222222222,0.1333333333333333,False,False,False,False
+Edouard Gomez,,Godwin Stewart,,0.2962962962962963,1.0,0.3076923076923077,0.16666666666666663,False,False,False,False
+Edouard Gomez,,Google,,0.3157894736842105,1.0,0.15384615384615385,0.0,False,False,False,False
+Edouard Gomez,,Google Chrome,,0.3846153846153846,1.0,0.15384615384615385,0.5454545454545454,False,False,False,False
+Edouard Gomez,,Gordon Irlam,,0.4,1.0,0.46153846153846156,0.19999999999999996,False,False,False,False
+Edouard Gomez,,Josh Coalson,,0.24,1.0,0.18181818181818177,0.16666666666666663,False,False,False,False
+Edouard Gomez,,NVIDIA Corporation,,0.25806451612903225,1.0,0.3076923076923077,0.125,False,False,False,False
+Edouard Gomez,,Stephen Warren,,0.2962962962962963,1.0,0.1428571428571429,0.18181818181818177,False,False,False,False
+Edouard Gomez,,Steven Johnson,,0.2222222222222222,1.0,0.15384615384615385,0.16666666666666663,False,False,False,False
+Edouard Gomez,,Sysiphus,,0.09523809523809523,1.0,0.1333333333333333,0.0,False,False,False,False
+Edouard Gomez,,XBMC,,0.11764705882352944,1.0,0.0,0.0,False,False,False,False
+Edouard Gomez,,anonymous,,0.2727272727272727,1.0,0.25,0.0,False,False,False,False
+Edouard Gomez,,mplayer developers,@mplayerhq.hu,0.32258064516129037,1.0,0.2857142857142857,0.2666666666666667,False,False,False,False
+Elvis Presley,elvis@e.p,Elviss Strazdins,elviss@elviss.lv,0.5517241379310345,0.9090909090909091,0.9090909090909091,0.25,False,False,False,False
+Eran Kornblau,eran.kornblau@kaltura.com,erankor,eran.kornblau@kaltura.com,0.7,1.0,0.7272727272727273,0.0,True,True,False,False
+Eric Lasota,ejlasota@gmail.com,Eric Lasota,riot@icculus.org,1.0,0.33333333333333337,1.0,1.0,False,False,True,False
+Eric Petit,eric@lapsus.org,Eric Zimmerman,eric@zimtek.com,0.5,1.0,1.0,0.1428571428571429,False,False,False,False
+Erik Hovland,erik@hovland.org,Erik Slagter,erik@slagter.name,0.5833333333333333,1.0,1.0,0.2857142857142857,False,False,False,False
+FearThe1337,git@fearthe1337.com,Gwenole Beauchesne,git@videolan.org,0.27586206896551724,1.0,0.2222222222222222,0.0,False,False,False,False
+FearThe1337,git@fearthe1337.com,James Zern,git@videolan.org,0.19047619047619047,1.0,0.25,0.0,False,False,False,False
+FearThe1337,git@fearthe1337.com,Niklas Haas,git@haasn.xyz,0.18181818181818177,1.0,0.11764705882352944,0.0,False,False,False,False
+FearThe1337,git@fearthe1337.com,Niklas Haas,git@nand.wakku.to,0.18181818181818177,1.0,0.11764705882352944,0.0,False,False,False,False
+FearThe1337,git@fearthe1337.com,Reimar Döffinger,git@videolan.org,0.2962962962962963,1.0,0.3529411764705882,0.0,False,False,False,False
+Federico Tomassetti,f.tomassetti@gmail.com,Federico Tomassetti,federico@tomassetti.me,1.0,0.30000000000000004,1.0,1.0,False,False,True,False
+Federico Tomassetti,f.tomassetti@gmail.com,Federico Tomassetti,ftomassetti@groupon.com,1.0,0.9565217391304348,1.0,1.0,True,False,True,False
+Federico Tomassetti,federico@tomassetti.me,Federico Tomassetti,ftomassetti@groupon.com,1.0,0.3157894736842105,1.0,1.0,True,False,False,False
+Felicia,flim@google.com,Felicia Lim,flim@google.com,0.7777777777777778,1.0,1.0,0.0,False,False,True,False
+Felix Bünemann,Felix.Buenemann@gmx.de,Felix Bünemann,atmosfear@users.sourceforge.net,1.0,0.16666666666666663,1.0,1.0,False,False,False,False
+Femi Adeyemi-Ejeye,olugbone@gmail.com,olugbone,olugbone@gmail.com,0.07999999999999996,1.0,0.16666666666666663,0.0,False,False,False,False
+Ferdinand Oeinck,ferdo@bigroses.nl,ferdo@bigroses.nl,ferdo@bigroses.nl,0.5161290322580645,1.0,0.5,0.0,False,False,False,False
+Frank Barchard,fbarchard@chromium.org,Frank Barchard,fbarchard@google.com,1.0,1.0,1.0,1.0,True,False,True,False
+Frank Galligan,fgalligan@chromium.org,Frank Galligan,frankgalligan@gmail.com,1.0,0.8181818181818181,1.0,1.0,True,True,True,False
+Franz Brauße,dev@karlchenofhell.org,Lynne,dev@lynne.ee,0.2222222222222222,1.0,0.19999999999999996,0.0,False,False,False,False
+Fred Rothganger,frothga@sandia.gov,Fred Rothganger,rothgang@uiuc.edu,1.0,0.8,1.0,1.0,False,False,False,False
+Frederic Turmel,me@fredt.org,Jai Luthra,me@jailuthra.in,0.31999999999999995,1.0,0.18181818181818177,0.33333333333333337,False,False,False,False
+Frederic Turmel,me@fredt.org,Justin Bull,me@justinbull.ca,0.3076923076923077,1.0,0.1428571428571429,0.4,False,False,False,False
+Ganapathy Kasi,gkasi@nvidia.com,Ganapathy Raman Kasi,gkasi@nvidia.com,0.8235294117647058,1.0,1.0,0.5714285714285714,True,False,False,False
+Ganesh Ajjanagadde,gajjanag@alum.mit.edu,Ganesh Ajjanagadde,gajjanag@gmail.com,1.0,1.0,1.0,1.0,False,False,False,False
+Ganesh Ajjanagadde,gajjanag@alum.mit.edu,Ganesh Ajjanagadde,gajjanagadde@gmail.com,1.0,0.8,1.0,1.0,True,False,False,False
+Ganesh Ajjanagadde,gajjanag@gmail.com,Ganesh Ajjanagadde,gajjanagadde@gmail.com,1.0,0.8,1.0,1.0,True,False,False,False
+Gaullier Nicolas,nicolas.gaullier@arkena.com,Nicolas Gaullier,nicolas.gaullier@arkena.com,0.5,1.0,0.1333333333333333,0.1333333333333333,True,True,True,True
+Geek.Song,ffmpeg@gmail.com,Gyan Doshi,ffmpeg@gyani.pro,0.2222222222222222,1.0,0.33333333333333337,0.0,False,False,False,False
+Geek.Song,ffmpeg@gmail.com,Isaac Dooley,ffmpeg@isaacdooley.com,0.19999999999999996,1.0,0.15384615384615385,0.0,False,False,False,False
+Geek.Song,ffmpeg@gmail.com,Jeremy Morton,ffmpeg@game-point.net,0.38095238095238093,1.0,0.2857142857142857,0.0,False,False,False,False
+Geek.Song,ffmpeg@gmail.com,Marcus Engene,ffmpeg@engene.se,0.2857142857142857,1.0,0.1428571428571429,0.0,False,False,False,False
+Geek.Song,ffmpeg@gmail.com,Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,0.17391304347826086,1.0,0.1333333333333333,0.0,False,False,False,False
+Geek.Song,ffmpeg@gmail.com,Nicolas Frattaroli,ffmpeg@fratti.ch,0.15384615384615385,1.0,0.1333333333333333,0.0,False,False,False,False
+Geek.Song,ffmpeg@gmail.com,Roumen Petrov,ffmpeg@roumenpetrov.info,0.2857142857142857,1.0,0.2857142857142857,0.0,False,False,False,False
+Geek.Song,ffmpeg@gmail.com,avcoder,ffmpeg@gmail.com,0.1333333333333333,1.0,0.1333333333333333,1.0,False,False,False,False
+Georg Martius,georg.martius@web.de,Georg Martius,martius@mis.mpg.de,1.0,0.7,1.0,1.0,False,False,True,True
+George Boyle,george@spotify.com,George Boyle,george@thebuds.net,1.0,1.0,1.0,1.0,False,False,False,False
+George Boyle,george@spotify.com,Nicolas George,george@nsup.org,0.46153846153846156,1.0,0.15384615384615385,0.36363636363636365,False,False,False,False
+George Boyle,george@thebuds.net,Nicolas George,george@nsup.org,0.46153846153846156,1.0,0.15384615384615385,0.36363636363636365,False,False,False,False
+Gerion Entrup,gerion.entrup@flump.de,Gerion Entrup,gerion.entrup@t-online.de,1.0,1.0,1.0,1.0,True,True,True,True
+Gerion Entrup,gerion.entrup@flump.de,gerion.entrup@t-online.de,gerion.entrup@t-online.de,0.7058823529411764,1.0,0.4444444444444444,0.0,True,True,False,False
+Gerion Entrup,gerion.entrup@t-online.de,gerion.entrup@t-online.de,gerion.entrup@t-online.de,0.7058823529411764,1.0,0.4444444444444444,0.0,True,True,False,False
+Gianluigi Tiesi,mplayer@netfarm.it,Zoltán Hidvégi,mplayer@hzoli.com,0.4137931034482759,1.0,0.2666666666666667,0.5,False,False,False,False
+Gildas Cocherel,gildas.cocherel@laposte.net,gcocherel,gildas.cocherel@laposte.net,0.75,1.0,0.2666666666666667,0.0,True,True,False,False
+Godwin Stewart,,Google,,0.30000000000000004,1.0,0.33333333333333337,0.0,False,False,False,False
+Godwin Stewart,,Google Chrome,,0.2962962962962963,1.0,0.33333333333333337,0.15384615384615385,False,False,False,False
+Godwin Stewart,,Gordon Irlam,,0.46153846153846156,1.0,0.6666666666666667,0.16666666666666663,False,False,False,False
+Godwin Stewart,,Josh Coalson,,0.23076923076923073,1.0,0.19999999999999996,0.1428571428571429,False,False,False,False
+Godwin Stewart,,NVIDIA Corporation,,0.3125,1.0,0.33333333333333337,0.2222222222222222,False,False,False,False
+Godwin Stewart,,Stephen Warren,,0.4285714285714286,1.0,0.15384615384615385,0.46153846153846156,False,False,False,False
+Godwin Stewart,,Steven Johnson,,0.2142857142857143,1.0,0.16666666666666663,0.1428571428571429,False,False,False,False
+Godwin Stewart,,Sysiphus,,0.18181818181818177,1.0,0.1428571428571429,0.0,False,False,False,False
+Godwin Stewart,,XBMC,,0.0,1.0,0.0,0.0,False,False,False,False
+Godwin Stewart,,anonymous,,0.26086956521739135,1.0,0.2666666666666667,0.0,False,False,False,False
+Godwin Stewart,,mplayer developers,@mplayerhq.hu,0.1875,1.0,0.0,0.23529411764705888,False,False,False,False
+Google,,Google Chrome,,0.631578947368421,1.0,1.0,0.0,False,False,False,False
+Google,,Gordon Irlam,,0.4444444444444444,1.0,0.5,0.0,False,False,False,False
+Google,,Josh Coalson,,0.33333333333333337,1.0,0.19999999999999996,0.0,False,False,False,False
+Google,,NVIDIA Corporation,,0.16666666666666663,1.0,0.0,0.0,False,False,False,False
+Google,,Stephen Warren,,0.09999999999999998,1.0,0.15384615384615385,0.0,False,False,False,False
+Google,,Steven Johnson,,0.19999999999999996,1.0,0.16666666666666663,0.0,False,False,False,False
+Google,,Sysiphus,,0.0,1.0,0.0,1.0,False,False,False,False
+Google,,XBMC,,0.0,1.0,0.0,1.0,False,False,False,False
+Google,,anonymous,,0.2666666666666667,1.0,0.2666666666666667,1.0,False,False,False,False
+Google,,mplayer developers,@mplayerhq.hu,0.16666666666666663,1.0,0.3076923076923077,0.0,False,False,False,False
+Google Chrome,,Gordon Irlam,,0.48,1.0,0.5,0.36363636363636365,False,False,False,False
+Google Chrome,,Josh Coalson,,0.31999999999999995,1.0,0.19999999999999996,0.3076923076923077,False,False,False,False
+Google Chrome,,NVIDIA Corporation,,0.25806451612903225,1.0,0.0,0.3529411764705882,False,False,False,False
+Google Chrome,,Stephen Warren,,0.2962962962962963,1.0,0.15384615384615385,0.33333333333333337,False,False,False,False
+Google Chrome,,Steven Johnson,,0.2962962962962963,1.0,0.16666666666666663,0.3076923076923077,False,False,False,False
+Google Chrome,,Sysiphus,,0.09523809523809523,1.0,0.0,0.0,False,False,False,False
+Google Chrome,,XBMC,,0.11764705882352944,1.0,0.0,0.0,False,False,False,False
+Google Chrome,,anonymous,,0.18181818181818177,1.0,0.2666666666666667,0.0,False,False,False,False
+Google Chrome,,mplayer developers,@mplayerhq.hu,0.32258064516129037,1.0,0.3076923076923077,0.25,False,False,False,False
+Gordon Irlam,,Josh Coalson,,0.25,1.0,0.19999999999999996,0.16666666666666663,False,False,False,False
+Gordon Irlam,,NVIDIA Corporation,,0.33333333333333337,1.0,0.16666666666666663,0.25,False,False,False,False
+Gordon Irlam,,Stephen Warren,,0.23076923076923073,1.0,0.15384615384615385,0.18181818181818177,False,False,False,False
+Gordon Irlam,,Steven Johnson,,0.23076923076923073,1.0,0.16666666666666663,0.0,False,False,False,False
+Gordon Irlam,,Sysiphus,,0.09999999999999998,1.0,0.0,0.0,False,False,False,False
+Gordon Irlam,,XBMC,,0.125,1.0,0.0,0.0,False,False,False,False
+Gordon Irlam,,anonymous,,0.2857142857142857,1.0,0.2666666666666667,0.0,False,False,False,False
+Gordon Irlam,,mplayer developers,@mplayerhq.hu,0.2666666666666667,1.0,0.15384615384615385,0.1333333333333333,False,False,False,False
+Gwenole Beauchesne,gb.devel@gmail.com,Gwenole Beauchesne,gbeauchesne@splitted-desktop.com,1.0,0.42105263157894735,1.0,1.0,True,False,False,False
+Gwenole Beauchesne,gb.devel@gmail.com,Gwenole Beauchesne,git@videolan.org,1.0,0.18181818181818177,1.0,1.0,False,False,False,False
+Gwenole Beauchesne,gb.devel@gmail.com,Gwenole Beauchesne,gwenole.beauchesne@intel.com,1.0,0.3076923076923077,1.0,1.0,True,True,False,False
+Gwenole Beauchesne,gbeauchesne@splitted-desktop.com,Gwenole Beauchesne,git@videolan.org,1.0,0.1428571428571429,1.0,1.0,False,False,True,False
+Gwenole Beauchesne,gbeauchesne@splitted-desktop.com,Gwenole Beauchesne,gwenole.beauchesne@intel.com,1.0,0.7586206896551724,1.0,1.0,True,True,True,False
+Gwenole Beauchesne,git@videolan.org,Gwenole Beauchesne,gwenole.beauchesne@intel.com,1.0,0.09523809523809523,1.0,1.0,True,True,False,False
+Gwenole Beauchesne,git@videolan.org,James Zern,git@videolan.org,0.2857142857142857,1.0,0.16666666666666663,0.2857142857142857,False,False,False,False
+Gwenole Beauchesne,git@videolan.org,Niklas Haas,git@haasn.xyz,0.3448275862068966,1.0,0.3076923076923077,0.2857142857142857,False,False,False,False
+Gwenole Beauchesne,git@videolan.org,Niklas Haas,git@nand.wakku.to,0.3448275862068966,1.0,0.3076923076923077,0.2857142857142857,False,False,False,False
+Gwenole Beauchesne,git@videolan.org,Reimar Döffinger,git@videolan.org,0.23529411764705888,1.0,0.15384615384615385,0.21052631578947367,False,False,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Gyan Doshi,gyandoshi at gmail.com,1.0,0.0714285714285714,1.0,1.0,True,True,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Gyan Doshi,gyandoshi@gmail.com,1.0,0.1333333333333333,1.0,1.0,True,True,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Isaac Dooley,ffmpeg@isaacdooley.com,0.36363636363636365,1.0,0.2222222222222222,0.36363636363636365,False,False,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Jeremy Morton,ffmpeg@game-point.net,0.26086956521739135,1.0,0.19999999999999996,0.18181818181818177,False,False,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Marcus Engene,ffmpeg@engene.se,0.17391304347826086,1.0,0.19999999999999996,0.0,False,False,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,0.24,1.0,0.18181818181818177,0.16666666666666663,False,False,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Nicolas Frattaroli,ffmpeg@fratti.ch,0.2857142857142857,1.0,0.18181818181818177,0.2666666666666667,False,False,False,False
+Gyan Doshi,ffmpeg@gyani.pro,Roumen Petrov,ffmpeg@roumenpetrov.info,0.26086956521739135,1.0,0.19999999999999996,0.18181818181818177,False,False,False,False
+Gyan Doshi,ffmpeg@gyani.pro,avcoder,ffmpeg@gmail.com,0.23529411764705888,1.0,0.18181818181818177,0.0,False,False,False,False
+Gyan Doshi,gyandoshi at gmail.com,Gyan Doshi,gyandoshi@gmail.com,1.0,0.5806451612903225,1.0,1.0,True,True,True,True
+Hagen Schmidt,schmidthagen@gmail.com,Hagen Schmidt,schmidthagen@googlemail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Hans-Kristian Arntzen,maister@archlinux.us,Themaister,maister@archlinux.us,0.4,1.0,0.4545454545454546,0.0,False,False,False,False
+Henrik Gramner,hengar-6@student.ltu.se,Henrik Gramner,henrik@gramner.com,1.0,0.5714285714285714,1.0,1.0,False,False,False,False
+Henrik Gramner,henrik@gramner.com,Henrik Gulbrandsen,henrik@gulbra.net,0.75,1.0,1.0,0.5555555555555556,False,False,False,False
+"Huang, Zhengxu",zhengxu.maxwell@gmail.com,Zhengxu,zhengxu.maxwell@gmail.com,0.7,1.0,0.5,0.0,True,False,False,False
+Ilia,zakne0ne@gmail.com,Ilia Valiakhmetov,zakne0ne@gmail.com,0.38095238095238093,1.0,1.0,0.0,False,False,False,False
+Isaac Dooley,ffmpeg@isaacdooley.com,Jeremy Morton,ffmpeg@game-point.net,0.24,1.0,0.0,0.33333333333333337,False,False,False,False
+Isaac Dooley,ffmpeg@isaacdooley.com,Marcus Engene,ffmpeg@engene.se,0.31999999999999995,1.0,0.36363636363636365,0.16666666666666663,False,False,False,False
+Isaac Dooley,ffmpeg@isaacdooley.com,Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,0.37037037037037035,1.0,0.33333333333333337,0.15384615384615385,False,False,False,False
+Isaac Dooley,ffmpeg@isaacdooley.com,Nicolas Frattaroli,ffmpeg@fratti.ch,0.4,1.0,0.33333333333333337,0.25,False,False,False,False
+Isaac Dooley,ffmpeg@isaacdooley.com,Roumen Petrov,ffmpeg@roumenpetrov.info,0.16000000000000003,1.0,0.0,0.16666666666666663,False,False,False,False
+Isaac Dooley,ffmpeg@isaacdooley.com,avcoder,ffmpeg@gmail.com,0.42105263157894735,1.0,0.33333333333333337,0.0,False,False,False,False
+Ivan Kalvachev,ikalvachev@gmail.com,Ivan Kalvachev,ivan@cacad.com,1.0,0.4285714285714286,1.0,1.0,False,False,True,False
+Jacek Jendrzej,overx300@gmail.com,Jacek Jendrzej,satbaby@kawaii.com,1.0,0.0,1.0,1.0,False,False,False,False
+Jacob Trimble,modmaker-at-google.com@ffmpeg.org,Jacob Trimble,modmaker@google.com,1.0,0.5333333333333333,1.0,1.0,False,False,False,False
+Jai Luthra,me@jailuthra.in,Justin Bull,me@justinbull.ca,0.38095238095238093,1.0,0.4444444444444444,0.19999999999999996,False,False,False,False
+Jai Menon,jai@retroficial.org,Jai Menon,jmenon86@gmail.com,1.0,0.18181818181818177,1.0,1.0,True,False,False,False
+Jai Menon,jai@retroficial.org,Jai Menon,realityman@gmx.net,1.0,0.3076923076923077,1.0,1.0,False,False,False,False
+Jai Menon,jmenon86@gmail.com,Jai Menon,realityman@gmx.net,1.0,0.2222222222222222,1.0,1.0,False,False,True,False
+James A. Morrison,ja2morri@csclub.uwaterloo.ca,James Morrison,ja2morri@csclub.uwaterloo.ca,0.9333333333333333,1.0,1.0,0.8888888888888888,False,False,False,False
+James Almer,jamrial@gmail.com,jamal,jamrial@gmail.com,0.625,1.0,0.6,0.0,False,False,False,False
+James Cowgill,James.Cowgill@imgtec.com,James Cowgill,james410@cowgill.org.uk,1.0,0.38095238095238093,1.0,1.0,False,False,False,False
+James Cowgill,James.Cowgill@imgtec.com,James Cowgill,jcowgill@debian.org,1.0,0.5714285714285714,1.0,1.0,True,False,False,False
+James Cowgill,james410@cowgill.org.uk,James Cowgill,jcowgill@debian.org,1.0,0.125,1.0,1.0,True,False,False,False
+James Darnley,james.darnley@gmail.com,James Darnley,jdarnley@obe.tv,1.0,0.7619047619047619,1.0,1.0,True,False,True,True
+James Zern,git@videolan.org,James Zern,jzern-at-google.com@ffmpeg.org,1.0,0.09090909090909094,1.0,1.0,True,False,False,False
+James Zern,git@videolan.org,James Zern,jzern@google.com,1.0,0.0,1.0,1.0,True,False,False,False
+James Zern,git@videolan.org,Niklas Haas,git@haasn.xyz,0.2857142857142857,1.0,0.36363636363636365,0.0,False,False,False,False
+James Zern,git@videolan.org,Niklas Haas,git@nand.wakku.to,0.2857142857142857,1.0,0.36363636363636365,0.0,False,False,False,False
+James Zern,git@videolan.org,Reimar Döffinger,git@videolan.org,0.3076923076923077,1.0,0.18181818181818177,0.3076923076923077,False,False,False,False
+James Zern,jzern-at-google.com@ffmpeg.org,James Zern,jzern@google.com,1.0,0.41666666666666663,1.0,1.0,True,False,True,False
+Jan Ekström,jan.ekstrom@aminocom.com,Jan Ekström,jeebjp@gmail.com,1.0,0.23529411764705888,1.0,1.0,False,False,True,True
+Jan Gerber,j@v2v.cc,Janne Grunau,j@jannau.net,0.5454545454545454,1.0,0.75,0.33333333333333337,False,False,False,False
+Jan Gerber,j@v2v.cc,Johan Andersson,j@i19.se,0.48,1.0,0.75,0.2666666666666667,False,False,False,False
+Jan Gerber,j@v2v.cc,j@v2v.cc,j@v2v.cc,0.125,1.0,0.2222222222222222,0.0,False,False,False,False
+Jan Gerber,j@v2v.cc,jan gerber,j@v2v.cc,1.0,1.0,1.0,1.0,False,False,False,False
+Janne Grunau,j@jannau.net,Janne Grunau,janne-ffmpeg@jannau.net,1.0,0.15384615384615385,1.0,1.0,False,True,False,False
+Janne Grunau,j@jannau.net,Janne Grunau,janne-libav@jannau.net,1.0,0.16666666666666663,1.0,1.0,False,False,False,False
+Janne Grunau,j@jannau.net,Johan Andersson,j@i19.se,0.5185185185185186,1.0,0.6,0.2666666666666667,False,False,False,False
+Janne Grunau,j@jannau.net,j@v2v.cc,j@v2v.cc,0.11111111111111116,1.0,0.18181818181818177,0.0,False,False,False,False
+Janne Grunau,j@jannau.net,jan gerber,j@v2v.cc,0.5454545454545454,1.0,0.75,0.33333333333333337,False,False,False,False
+Janne Grunau,janne-ffmpeg@jannau.net,Janne Grunau,janne-libav@jannau.net,1.0,0.5217391304347826,1.0,1.0,False,False,False,True
+Jason,jason@cpcweb.com,Jason Garrett-Glaser,jason@x264.com,0.41666666666666663,1.0,1.0,0.0,False,False,False,False
+Jason Garrett-Glaser,darkshikari@gmail.com,Jason Garrett-Glaser,jason@x264.com,1.0,0.25,1.0,1.0,False,False,False,False
+Jean Delvare,jdelvare@suse.de,Jean Delvare,khali@linux-fr.org,1.0,0.15384615384615385,1.0,1.0,False,False,True,False
+Jean-Baptiste Kempf,jb@videolan.org,Jean-Baptiste Mardelle,jb@kdenlive.org,0.717948717948718,1.0,1.0,0.15384615384615385,False,False,False,False
+Jean-Baptiste Kempf,jb@videolan.org,jb@kdenlive.org,jb@kdenlive.org,0.32258064516129037,1.0,0.4,0.0,False,False,False,False
+Jean-Baptiste Mardelle,jb@kdenlive.org,jb@kdenlive.org,jb@kdenlive.org,0.3529411764705882,1.0,0.4,0.0,False,False,False,False
+Jean-Daniel Dupas,devlists@shadowlab.org,Jean-Daniel Dupas,jd.dupas@ninsight.com,1.0,0.25,1.0,1.0,True,False,False,False
+Jeff Downs,heydowns@borg.com,Jeff Downs,heydowns@somuchpressure.net,1.0,1.0,1.0,1.0,False,False,False,False
+Jeremy Dorfman via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Nikolas Bowe via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,0.6206896551724138,1.0,0.0,0.7906976744186046,False,False,False,False
+Jeremy Dorfman via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Sam John via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,0.7407407407407407,1.0,0.2222222222222222,0.8372093023255813,False,False,False,False
+Jeremy Dorfman via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Simon Thelen,ffmpeg-dev@c-14.de,0.2857142857142857,0.9090909090909091,0.18181818181818177,0.13793103448275867,False,False,False,False
+Jeremy Dorfman via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Vittorio Gambaletta (VittGam),ffmpeg-dev@vittgam.net,0.3157894736842105,0.9090909090909091,0.1428571428571429,0.3414634146341463,False,False,False,False
+Jeremy Morton,ffmpeg@game-point.net,Marcus Engene,ffmpeg@engene.se,0.23076923076923073,1.0,0.16666666666666663,0.16666666666666663,False,False,False,False
+Jeremy Morton,ffmpeg@game-point.net,Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,0.2857142857142857,1.0,0.15384615384615385,0.15384615384615385,False,False,False,False
+Jeremy Morton,ffmpeg@game-point.net,Nicolas Frattaroli,ffmpeg@fratti.ch,0.25806451612903225,1.0,0.0,0.375,False,False,False,False
+Jeremy Morton,ffmpeg@game-point.net,Roumen Petrov,ffmpeg@roumenpetrov.info,0.3846153846153846,1.0,0.33333333333333337,0.33333333333333337,False,False,False,False
+Jeremy Morton,ffmpeg@game-point.net,avcoder,ffmpeg@gmail.com,0.19999999999999996,1.0,0.3076923076923077,0.0,False,False,False,False
+Jernej Fijačko,jernej@jernej-ThinkCentre-M91p.(none),Jernej Fijačko,jernej@jernej.org,1.0,1.0,1.0,1.0,False,False,False,False
+Jernej Fijačko,jernej@jernej-ThinkCentre-M91p.(none),Jernej Virag,jernej@virag.si,0.6923076923076923,1.0,1.0,0.33333333333333337,False,False,False,False
+Jernej Fijačko,jernej@jernej.org,Jernej Virag,jernej@virag.si,0.6923076923076923,1.0,1.0,0.33333333333333337,False,False,False,False
+Jerome Martinez,jerome@mediaarea.net,Jérôme Martinez,jerome@mediaarea.net,1.0,1.0,1.0,1.0,False,True,False,True
+"Jeyapal, Karthick",kjeyapal@akamai.com,Karthick J,kjeyapal@akamai.com,0.6153846153846154,1.0,0.1333333333333333,0.0,False,True,True,False
+"Jeyapal, Karthick",kjeyapal@akamai.com,Karthick Jeyapal,kjeyapal@akamai.com,0.5,1.0,0.1333333333333333,0.1333333333333333,False,True,True,False
+"Jeyapal, Karthick",kjeyapal@akamai.com,kjeyapal@akamai.com,kjeyapal@akamai.com,0.6666666666666667,1.0,0.5833333333333333,0.0,False,True,False,False
+Jindrich Makovicka,jindrich.makovicka@nangu.tv,Jindrich Makovicka,makovick@gmail.com,1.0,0.6153846153846154,1.0,1.0,False,False,True,True
+Jindrich Makovicka,jindrich.makovicka@nangu.tv,Jindřich Makovička,makovick@gmail.com,1.0,0.6153846153846154,1.0,1.0,False,False,True,True
+Jindrich Makovicka,makovick@gmail.com,Jindřich Makovička,makovick@gmail.com,1.0,1.0,1.0,1.0,False,False,False,False
+Joakim Plate,elupus@ecce.se,elupus,elupus@ecce.se,0.11111111111111116,1.0,0.0,0.0,False,False,False,False
+Joakim Plate,elupus@ecce.se,elupus,elupus@xbmc.org,0.11111111111111116,1.0,0.0,0.0,False,False,False,False
+Johan Andersson,j@i19.se,j@v2v.cc,j@v2v.cc,0.09523809523809523,1.0,0.18181818181818177,0.0,False,False,False,False
+Johan Andersson,j@i19.se,jan gerber,j@v2v.cc,0.48,1.0,0.75,0.2666666666666667,False,False,False,False
+Johannes Carlsson,joca@rixmail.se,joca@rixmail.se,joca@rixmail.se,0.4666666666666667,1.0,0.38095238095238093,0.0,False,False,False,False
+John Comeau,jc@unternet.net,John Cox,jc@kynesim.co.uk,0.736842105263158,1.0,1.0,0.4444444444444444,False,False,False,False
+John Horigan,john@glyphic.com,John Wimer,john@god.vtic.net,0.5454545454545454,1.0,1.0,0.16666666666666663,False,True,False,False
+John Horigan,john@glyphic.com,Warblefly,john@johnwarburton.net,0.09523809523809523,1.0,0.0,0.0,False,True,False,False
+John Stebbins,jstebbins.hb@gmail.com,John Stebbins,jstebbins@jetheaddev.com,1.0,0.8571428571428572,1.0,1.0,True,False,True,False
+John Stebbins,jstebbins.hb@gmail.com,John Stebbins,stebbins@jetheaddev.com,1.0,0.8,1.0,1.0,False,False,True,False
+John Stebbins,jstebbins@jetheaddev.com,John Stebbins,stebbins@jetheaddev.com,1.0,0.9411764705882353,1.0,1.0,False,False,True,False
+John Wimer,john@god.vtic.net,Warblefly,john@johnwarburton.net,0.21052631578947367,1.0,0.0,0.0,False,False,False,False
+Jon Morley,jmorley@pixsystem.com,Jon Morley,jon@tweaksoftware.com,1.0,0.4,1.0,1.0,False,False,True,False
+Jon Toohill,jtoohill-at-google.com@ffmpeg.org,Jon Toohill,jtoohill@google.com,1.0,0.5333333333333333,1.0,1.0,True,False,True,False
+Jorge Ramirez-Ortiz,jorge.ramirez-ortiz@linaro.org,Jorge Ramirez-Ortiz,jramirez@baylibre.com,1.0,0.5925925925925926,1.0,1.0,False,False,False,True
+Josh Coalson,,NVIDIA Corporation,,0.4,1.0,0.0,0.5555555555555556,False,False,False,False
+Josh Coalson,,Stephen Warren,,0.3846153846153846,1.0,0.36363636363636365,0.3076923076923077,False,False,False,False
+Josh Coalson,,Steven Johnson,,0.46153846153846156,1.0,0.19999999999999996,0.5714285714285714,False,False,False,False
+Josh Coalson,,Sysiphus,,0.30000000000000004,1.0,0.33333333333333337,0.0,False,False,False,False
+Josh Coalson,,XBMC,,0.125,1.0,0.0,0.0,False,False,False,False
+Josh Coalson,,anonymous,,0.2857142857142857,1.0,0.3076923076923077,0.0,False,False,False,False
+Josh Coalson,,mplayer developers,@mplayerhq.hu,0.19999999999999996,1.0,0.0,0.23529411764705888,False,False,False,False
+Josh de Kock,josh@itanimul.li,Josh de Kock,joshdk@obe.tv,1.0,0.8,1.0,1.0,False,True,False,False
+Julian Scheel,julian@jusst.de,Julian Scheid,julian@sektor37.de,0.8461538461538461,1.0,1.0,0.6666666666666667,False,False,False,False
+Jun Li,junli1026@gmail.com,Signed-off-by: Jun Li,junli1026@gmail.com,0.5,1.0,0.1428571428571429,0.5,True,True,False,False
+Jun Zhao,barryjzhao@tencent.com,Jun Zhao,jun.zhao@intel.com,1.0,0.5555555555555556,1.0,1.0,True,True,True,False
+Jun Zhao,barryjzhao@tencent.com,Jun Zhao,mypopydev@gmail.com,1.0,0.21052631578947367,1.0,1.0,False,False,True,False
+Jun Zhao,jun.zhao@intel.com,Jun Zhao,mypopydev@gmail.com,1.0,0.11764705882352944,1.0,1.0,False,False,True,True
+Justin,justin.ruggles@gmail.com,Justin Ruggles,justin.ruggles@gmail.com,0.6,1.0,1.0,0.0,False,False,True,True
+Justin Greer,justin@zencoder.com,Justin Ruggles,justinr@vimeo.com,0.6923076923076923,0.9230769230769231,1.0,0.33333333333333337,False,False,False,False
+Justin Ruggles,jruggle@earthlink.net,Justin Ruggles,justin.ruggles@gmail.com,1.0,0.6666666666666667,1.0,1.0,True,True,False,False
+Justin Ruggles,jruggle@earthlink.net,Justin Ruggles,justinr@vimeo.com,1.0,0.2857142857142857,1.0,1.0,False,True,False,False
+Justin Ruggles,justin.ruggles@gmail.com,Justin Ruggles,justinr@vimeo.com,1.0,0.6666666666666667,1.0,1.0,False,True,True,True
+K.Y.H,kyh96403@hotmail.com,kyh96403,kyh96403@hanmail.net,0.5454545454545454,1.0,0.5454545454545454,1.0,False,False,False,False
+KO Myung-Hun,komh78@gmail.com,KO Myung-Hun,komh@chollian.net,1.0,0.8,1.0,1.0,False,True,False,True
+Karthick J,kjeyapal@akamai.com,Karthick Jeyapal,kjeyapal@akamai.com,0.7692307692307692,1.0,1.0,0.25,True,False,True,False
+Karthick J,kjeyapal@akamai.com,kjeyapal@akamai.com,kjeyapal@akamai.com,0.2962962962962963,1.0,0.31999999999999995,0.0,True,False,False,False
+Karthick Jeyapal,kjeyapal@akamai.com,kjeyapal@akamai.com,kjeyapal@akamai.com,0.48484848484848486,1.0,0.31999999999999995,0.0,True,False,False,False
+Keiji Costantini,lists@strites.net,Keiji Costantini,strites@gmail.com,1.0,0.5,1.0,1.0,False,False,False,False
+Keiji Costantini,lists@strites.net,Morten Hustveit,lists@rashbox.org,0.32258064516129037,1.0,0.18181818181818177,0.33333333333333337,False,False,False,False
+Keiji Costantini,lists@strites.net,Reto Kromer,lists@reto.ch,0.2222222222222222,1.0,0.2222222222222222,0.125,False,False,False,False
+Keiji Costantini,lists@strites.net,Wim Vander Schelden,lists@fixnum.org,0.2857142857142857,1.0,0.25,0.24,False,False,False,False
+Kieran,kierank@obe.tv,Kieran Kunhya,kieran@kunhya.com,0.631578947368421,0.9230769230769231,1.0,0.0,False,False,False,True
+Kieran,kierank@obe.tv,Kieran Kunhya,kierank@ob-encoder.com,0.631578947368421,1.0,1.0,0.0,False,False,False,True
+Kieran,kierank@obe.tv,Kieran Kunhya,kierank@obe.tv,0.631578947368421,1.0,1.0,0.0,False,False,False,True
+Kieran Kunhya,kieran@kunhya.com,Kieran Kunhya,kierank@ob-encoder.com,1.0,0.9230769230769231,1.0,1.0,False,True,False,True
+Kieran Kunhya,kieran@kunhya.com,Kieran Kunhya,kierank@obe.tv,1.0,0.9230769230769231,1.0,1.0,False,True,False,True
+Kieran Kunhya,kierank@ob-encoder.com,Kieran Kunhya,kierank@obe.tv,1.0,1.0,1.0,1.0,False,True,False,True
+Kieran O'Leary,kieran.o.leary@gmail.com,kieranjol,kieran.o.leary@gmail.com,0.7272727272727273,1.0,0.8,0.0,False,True,False,False
+Kirill Gavrilov,gavr.mail@gmail.com,Kirill Gavrilov,kirill@sview.ru,1.0,0.4,1.0,1.0,False,False,False,False
+KongQun Yang,kqyang@google.com,Kongqun Yang,yangkongqun@gmail.com,1.0,0.47058823529411764,1.0,1.0,True,True,True,False
+Kostya,kostya.shishkov@gmail.com,Kostya Shishkov,kostya.shishkov@gmail.com,0.5714285714285714,1.0,1.0,0.0,False,False,True,True
+Kyle Swanson,k@ylo.ph,Kyle Swanson,kswanson@netflix.com,1.0,0.2222222222222222,1.0,1.0,True,False,False,False
+Lars Täuber,lars.taeuber@gmx.net,lars.taeuber@web.de,lars.taeuber@web.de,0.7407407407407407,1.0,0.4,0.0,False,True,False,False
+Laurent Aimar,fenrir@elivagar.org,Laurent Aimar,fenrir@via.ecp.fr,1.0,1.0,1.0,1.0,False,False,False,False
+Laurent Aimar,fenrir@elivagar.org,Laurent Aimar,fenrir@videolan.org,1.0,1.0,1.0,1.0,False,False,False,False
+Laurent Aimar,fenrir@via.ecp.fr,Laurent Aimar,fenrir@videolan.org,1.0,1.0,1.0,1.0,False,False,False,False
+Leandro Dorileo,l@dorileo.org,Leandro Dorileo,leandro.maciel.dorileo@intel.com,1.0,0.08695652173913049,1.0,1.0,True,True,False,False
+Lenny Wang,lenny@multicorewareinc.com,Lenny Wang,lwanghpc@gmail.com,1.0,0.3076923076923077,1.0,1.0,True,False,False,False
+Leon van Stuivenberg,l.vanstuivenberg@chello.nl,Leon van Stuivenberg,leonvs@iae.nl,1.0,0.2727272727272727,1.0,1.0,False,True,False,False
+"Li, Zhong",zhong.li@intel.com,Zhong Li,zhong.li@intel.com,0.625,1.0,0.0,0.0,True,True,True,True
+Loic Le Loarer,lll+ffmpeg@m4x.org,Loïc Le Loarer,lll+ffmpeg@m4x.org,1.0,1.0,1.0,1.0,False,False,False,False
+Loren Merritt,lorenm@u.washington.edu,Loren Merritt,pengvado@akuvian.org,1.0,0.2857142857142857,1.0,1.0,False,False,False,True
+Lou Logan,lou@fakeoutdoorsman.com,Lou Logan,lou@lrcd.com,1.0,1.0,1.0,1.0,False,True,False,True
+Luca Barbato,lu_zero at gentoo.org,Luca Barbato,lu_zero@gentoo.org,1.0,0.5,1.0,1.0,False,False,False,False
+Lucas Cooper,bobobo-at-google.com@ffmpeg.org,Lucas Cooper,bobobo@google.com,1.0,0.46153846153846156,1.0,1.0,False,False,False,False
+Lukasz Marek,lukasz.m.luki2@gmail.com,Lukasz Marek,lukasz.m.luki@gmail.com,1.0,0.962962962962963,1.0,1.0,False,True,False,True
+Maksym Veremeyenko,verem@m1.tv,Maksym Veremeyenko,verem@m1stereo.tv,1.0,1.0,1.0,1.0,False,False,False,False
+Mans Rullgard,mans@mansr.com,Måns Rullgård,mans@mansr.com,1.0,1.0,1.0,1.0,False,False,False,False
+Marc Hoffman,mmh@pleasantst.com,Marc Hoffman,mmhoffm@gmail.com,1.0,0.6,1.0,1.0,False,False,False,False
+Marcus Engene,ffmpeg@engene.se,Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,0.3571428571428571,1.0,0.3076923076923077,0.15384615384615385,False,False,False,False
+Marcus Engene,ffmpeg@engene.se,Nicolas Frattaroli,ffmpeg@fratti.ch,0.19354838709677424,1.0,0.3076923076923077,0.0,False,False,False,False
+Marcus Engene,ffmpeg@engene.se,Roumen Petrov,ffmpeg@roumenpetrov.info,0.3846153846153846,1.0,0.33333333333333337,0.16666666666666663,False,False,False,False
+Marcus Engene,ffmpeg@engene.se,avcoder,ffmpeg@gmail.com,0.30000000000000004,1.0,0.3076923076923077,0.0,False,False,False,False
+Mark Hills,mark@pogo.org.uk,Mark Himsley,mark@mdsh.com,0.7272727272727273,1.0,1.0,0.5,False,False,False,False
+Mark Himsley,Mark Himsley mark@mdsh.com,Mark Himsley,mark@mdsh.com,1.0,0.38095238095238093,1.0,1.0,False,False,False,False
+Mark Thompson,mrt@jkqxz.net,Mark Thompson,sw@jkqxz.net,1.0,0.0,1.0,1.0,False,False,False,False
+Martin Lindhe,martin@startwars.org,Martin Storsjo,martin@martin.st,0.5185185185185186,1.0,1.0,0.0,False,False,False,False
+Martin Lindhe,martin@startwars.org,Martin Storsjö,martin@martin.st,0.5185185185185186,1.0,1.0,0.0,False,False,False,False
+Martin Storsjo,martin@martin.st,Martin Storsjö,martin@martin.st,1.0,1.0,1.0,1.0,False,False,False,False
+Marvin Scholz,epirat07@gmail.com,ePirat,epirat07@gmail.com,0.10526315789473684,1.0,0.16666666666666663,0.0,False,False,False,False
+Mashiat Sarker Shakkhar,mashiat.sarker@gmail.com,Mashiat Sarker Shakkhar,shahriman_ams@yahoo.com,1.0,0.37037037037037035,1.0,1.0,False,False,False,True
+Mashiat Sarker Shakkhar,shahriman_ams@yahoo.com,shahriman AMS,shahriman_ams@yahoo.com,0.38888888888888884,1.0,0.5,0.2222222222222222,False,False,True,True
+Mats Peterson,matsp888-at-yahoo.com@ffmpeg.org,Mats Peterson,matsp888@yahoo.com,1.0,0.5517241379310345,1.0,1.0,False,True,False,True
+Matt Oliver,protogonoi@gmail.com,Matthew Oliver,protogonoi@gmail.com,0.88,1.0,0.7272727272727273,1.0,False,False,False,False
+Matt Wolenetz,wolenetz@chromium.org,Matt Wolenetz,wolenetz@google.com,1.0,1.0,1.0,1.0,False,False,False,False
+Matthieu Bouron,matthieu.bouron@gmail.com,Matthieu Bouron,matthieu.bouron@smartjog.com,1.0,1.0,1.0,1.0,True,True,True,True
+Matthieu Bouron,matthieu.bouron@gmail.com,Matthieu Bouron,matthieu.bouron@stupeflix.com,1.0,1.0,1.0,1.0,True,True,True,True
+Matthieu Bouron,matthieu.bouron@gmail.com,Matthieu Bouron,mbouron@gopro.com,1.0,0.6363636363636364,1.0,1.0,True,False,True,True
+Matthieu Bouron,matthieu.bouron@smartjog.com,Matthieu Bouron,matthieu.bouron@stupeflix.com,1.0,1.0,1.0,1.0,True,True,True,True
+Matthieu Bouron,matthieu.bouron@smartjog.com,Matthieu Bouron,mbouron@gopro.com,1.0,0.6363636363636364,1.0,1.0,True,False,True,True
+Matthieu Bouron,matthieu.bouron@stupeflix.com,Matthieu Bouron,mbouron@gopro.com,1.0,0.6363636363636364,1.0,1.0,True,False,True,True
+Matti Hamalainen,(mhamalai@students.oamk.fi,Matti Hamalainen,ccr@tnsp.org,1.0,0.0,1.0,1.0,False,False,False,False
+Max Lazarov,mlazarov@gmail.com,maxlazarov,mlazarov@gmail.com,0.9523809523809523,1.0,0.46153846153846156,0.0,True,False,False,False
+Max Poliakovski,maximumspatium@googlemail.com,Maxim Poliakovski,max_pole@gmx.de,0.9375,0.36363636363636365,0.75,1.0,False,True,False,True
+Max Poliakovski,maximumspatium@googlemail.com,Maxim Poliakovski,maximumspatium@googlemail.com,0.9375,1.0,0.75,1.0,False,True,False,True
+Maxim Poliakovski,max_pole@gmx.de,Maxim Poliakovski,maximumspatium@googlemail.com,1.0,0.36363636363636365,1.0,1.0,False,True,False,False
+Maxim Poliakovski,max_pole@gmx.de,Maxim Polijakowski,max_pole@gmx.de,0.9142857142857143,1.0,1.0,0.8695652173913043,False,False,False,False
+Maxim Poliakovski,maximumspatium@googlemail.com,Maxim Polijakowski,max_pole@gmx.de,0.9142857142857143,0.36363636363636365,1.0,0.8695652173913043,False,False,False,True
+Maxym Dmytrychenko,maxim.d33@gmail.com,Maxym Dmytrychenko,maxym.dmytrychenko@intel.com,1.0,0.4444444444444444,1.0,1.0,True,True,False,False
+Micah F. Galizia,micahgalizia@gmail.com,Micah Galizia,micahgalizia@gmail.com,0.9285714285714286,1.0,1.0,0.875,False,False,True,True
+Michael Bradshaw,mbradshaw@sorensonmedia.com,Michael Bradshaw,mjbshaw@gmail.com,1.0,0.75,1.0,1.0,False,False,True,False
+Michael Bradshaw,mbradshaw@sorensonmedia.com,Michael Bradshaw,mjbshaw@google.com,1.0,0.75,1.0,1.0,False,False,True,False
+Michael Bradshaw,mjbshaw@gmail.com,Michael Bradshaw,mjbshaw@google.com,1.0,1.0,1.0,1.0,False,False,False,False
+Michael Chinen,m@roughsoft.com,Michael Chinen,mchinen@gmail.com,1.0,0.25,1.0,1.0,True,False,False,False
+Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,Nicolas Frattaroli,ffmpeg@fratti.ch,0.36363636363636365,1.0,0.4285714285714286,0.23529411764705888,False,False,False,False
+Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,Roumen Petrov,ffmpeg@roumenpetrov.info,0.3571428571428571,1.0,0.3076923076923077,0.3076923076923077,False,False,False,False
+Michael Karcher,ffmpeg@mkarcher.dialup.fu-berlin.de,avcoder,ffmpeg@gmail.com,0.36363636363636365,1.0,0.2857142857142857,0.0,False,False,False,False
+Michael Kaufmann,michael@kaufmann.ch,Michael Niedermayer,michael@niedermayer.cc,0.5714285714285714,1.0,1.0,0.21052631578947367,False,False,False,False
+Michael Kaufmann,michael@kaufmann.ch,Michael Stypa,michael@stypa.info,0.6206896551724138,1.0,1.0,0.15384615384615385,False,False,False,False
+Michael Kaufmann,michael@kaufmann.ch,michael,michael@b3059339-0415-0410-9bf9-f77b7e298cf2,0.6086956521739131,1.0,1.0,0.0,False,False,False,False
+Michael Niedermayer,michael@niedermayer.cc,Michael Niedermayer,michaelni@gmx.at,1.0,0.875,1.0,1.0,False,True,False,False
+Michael Niedermayer,michael@niedermayer.cc,Michael Stypa,michael@stypa.info,0.5625,1.0,1.0,0.125,False,False,False,False
+Michael Niedermayer,michael@niedermayer.cc,michael,michael@b3059339-0415-0410-9bf9-f77b7e298cf2,0.5384615384615384,1.0,1.0,0.0,False,False,False,False
+Michael Schenk,michael.schenk@albis-elcon.com,Michael Schenk,michael.schenk@albistechnologies.com,1.0,1.0,1.0,1.0,True,True,True,True
+Michael Schenk,michael.schenk@albis-elcon.com,schenk michael,michael.schenk@albistechnologies.com,0.5,1.0,0.46153846153846156,0.46153846153846156,True,True,True,True
+Michael Schenk,michael.schenk@albistechnologies.com,schenk michael,michael.schenk@albistechnologies.com,0.5,1.0,0.46153846153846156,0.46153846153846156,True,True,True,True
+Michael Stypa,michael@stypa.info,michael,michael@b3059339-0415-0410-9bf9-f77b7e298cf2,0.7,1.0,1.0,0.0,False,False,False,False
+Michel Bardiaux,mbardiaux@mediaxim.be,Michel Bardiaux,mbardiaux@peaktime.be,1.0,1.0,1.0,1.0,True,False,True,False
+Mika Raento,mika.raento@elisa.fi,Mika Raento,mikie@iki.fi,1.0,0.5,1.0,1.0,False,False,True,True
+Mike Melanson,mike@multimedia.cx,Mike William,mike@mikebwilliams.com,0.56,1.0,1.0,0.2666666666666667,False,True,False,False
+Mike Melanson,mike@multimedia.cx,Mike Williams,mike@mikebwilliams.com,0.6153846153846154,1.0,1.0,0.375,False,True,False,False
+Mike Scheutzow,mike.scheutzow@alcatel-lucent.com,Mike Scheutzow,mjs973@optonline.net,1.0,0.19999999999999996,1.0,1.0,False,False,True,True
+Mike Scheutzow,mike.scheutzow@alcatel-lucent.com,Mike Scheutzow,scheutzow@alcatel-lucent.com,1.0,0.782608695652174,1.0,1.0,False,False,True,True
+Mike Scheutzow,mjs973@optonline.net,Mike Scheutzow,scheutzow@alcatel-lucent.com,1.0,0.1333333333333333,1.0,1.0,False,False,False,False
+Mike William,mike@mikebwilliams.com,Mike Williams,mike@mikebwilliams.com,0.96,1.0,1.0,0.9333333333333333,False,False,False,False
+Mikulas Patocka,mikulas@artax.karlin.mff.cuni.cz,Mikulas Patocka,mikulas@twibright.com,1.0,1.0,1.0,1.0,False,False,False,False
+Mina,minas.gorgy@gmail.com,Mina,minasamy_@hotmail.com,1.0,0.6,1.0,1.0,False,False,False,False
+Miroslav Slugen,thunder.m@email.cz,Miroslav Slugeň,Thunder.m@seznam.cz,1.0,0.8888888888888888,1.0,1.0,False,False,False,False
+Miroslav Slugen,thunder.m@email.cz,Miroslav Slugeň,thunder.m@email.cz,1.0,1.0,1.0,1.0,False,False,False,False
+Miroslav Slugen,thunder.m@email.cz,Miroslav Slugeň,thunder.m@seznam.cz,1.0,1.0,1.0,1.0,False,False,False,False
+Miroslav Slugeň,Thunder.m@seznam.cz,Miroslav Slugeň,thunder.m@email.cz,1.0,0.8888888888888888,1.0,1.0,False,False,False,False
+Miroslav Slugeň,Thunder.m@seznam.cz,Miroslav Slugeň,thunder.m@seznam.cz,1.0,0.8888888888888888,1.0,1.0,False,False,False,False
+Miroslav Slugeň,thunder.m@email.cz,Miroslav Slugeň,thunder.m@seznam.cz,1.0,1.0,1.0,1.0,False,False,False,False
+Mohamed Naufal,naufal11@gmail.com,Mohamed Naufal,naufal22@gmail.com,1.0,0.75,1.0,1.0,False,False,False,False
+Mohamed Naufal,naufal11@gmail.com,Mohamed Naufal Basheer,naufal11@gmail.com,0.7777777777777778,1.0,1.0,0.6,False,False,False,False
+Mohammad Alsaleh,msal@i2pmail.org,Mohammad Alsaleh,msal@tormail.org,1.0,1.0,1.0,1.0,False,False,False,False
+Morten Hustveit,lists@rashbox.org,Reto Kromer,lists@reto.ch,0.3076923076923077,1.0,0.4,0.1428571428571429,False,False,False,False
+Morten Hustveit,lists@rashbox.org,Wim Vander Schelden,lists@fixnum.org,0.2941176470588235,1.0,0.2222222222222222,0.17391304347826086,False,False,False,False
+Multiple Authors,multiple_authors@ffmpeg_mt,multiple authors,multiple@multiple.x,1.0,0.6666666666666667,1.0,1.0,False,False,True,True
+NVIDIA Corporation,,Stephen Warren,,0.3125,1.0,0.15384615384615385,0.3529411764705882,False,False,False,False
+NVIDIA Corporation,,Steven Johnson,,0.3125,1.0,0.16666666666666663,0.33333333333333337,False,False,False,False
+NVIDIA Corporation,,Sysiphus,,0.15384615384615385,1.0,0.1428571428571429,0.0,False,False,False,False
+NVIDIA Corporation,,XBMC,,0.09090909090909094,1.0,0.0,0.0,False,False,False,False
+NVIDIA Corporation,,anonymous,,0.2222222222222222,1.0,0.1333333333333333,0.0,False,False,False,False
+NVIDIA Corporation,,mplayer developers,@mplayerhq.hu,0.2777777777777778,1.0,0.15384615384615385,0.2857142857142857,False,False,False,False
+Nathan Adil Maxson,nathan0n5ire at gmail dot com,Nathan Adil Maxson,nathan0n5ire@gmail.com,1.0,0.5853658536585367,1.0,1.0,False,True,False,True
+Nazo,lovesyao@aol.com,Toshimitsu Kimura,lovesyao@gmail.com,0.09523809523809523,1.0,0.1428571428571429,0.0,False,False,False,False
+Nedeljko Babic,nbabic@mips.com,Nedeljko Babic,nedeljko.babic@imgtec.com,1.0,0.6,1.0,1.0,True,True,True,False
+Nedeljko Babic,nbabic@mips.com,Nedeljko Babic,nedeljko.babic@rt-rk.com,1.0,0.6,1.0,1.0,True,True,True,False
+Nedeljko Babic,nedeljko.babic@imgtec.com,Nedeljko Babic,nedeljko.babic@rt-rk.com,1.0,1.0,1.0,1.0,True,True,True,True
+Nicholas Robbins,nickrobbins-at-yahoo.com@ffmpeg.org,Nicholas Robbins,nickrobbins@yahoo.com,1.0,0.6285714285714286,1.0,1.0,True,False,True,False
+Nico Weber,nicolasweber@gmx.de,Nico Weber,thakis@chromium.org,1.0,0.2222222222222222,1.0,1.0,False,False,True,True
+Nico Weber,thakis@chromium.org,Panagiotis H.M. Issaris,takis@issaris.org,0.32258064516129037,0.9090909090909091,0.4285714285714286,0.1333333333333333,False,False,False,False
+Nicolas Frattaroli,ffmpeg@fratti.ch,Roumen Petrov,ffmpeg@roumenpetrov.info,0.32258064516129037,1.0,0.15384615384615385,0.375,False,False,False,False
+Nicolas Frattaroli,ffmpeg@fratti.ch,avcoder,ffmpeg@gmail.com,0.24,1.0,0.2857142857142857,0.0,False,False,False,False
+Nicolas George,george@nsup.org,Nicolas George,nicola.george@normalesup.org,1.0,0.631578947368421,1.0,1.0,True,False,False,False
+Nicolas George,george@nsup.org,Nicolas George,nicolas.george@normalesup.org,1.0,0.6,1.0,1.0,True,True,False,False
+Nicolas George,nicola.george@normalesup.org,Nicolas George,nicolas.george@normalesup.org,1.0,0.962962962962963,1.0,1.0,True,True,True,False
+Nicolas Noirbent,nicolas.noirbent@smartjog.com,Nicolas Noirbent,nicolas@noirbent.fr,1.0,0.6086956521739131,1.0,1.0,False,True,True,True
+Niklas Haas,git@haasn.xyz,Niklas Haas,git@nand.wakku.to,1.0,1.0,1.0,1.0,False,False,False,False
+Niklas Haas,git@haasn.xyz,Reimar Döffinger,git@videolan.org,0.2222222222222222,1.0,0.33333333333333337,0.0,False,False,False,False
+Niklas Haas,git@nand.wakku.to,Reimar Döffinger,git@videolan.org,0.2222222222222222,1.0,0.33333333333333337,0.0,False,False,False,False
+Nikolas Bowe,nbowe-at-google.com@ffmpeg.org,Nikolas Bowe,nbowe@google.com,1.0,0.41666666666666663,1.0,1.0,True,False,True,False
+Nikolas Bowe via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Sam John via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,0.7307692307692308,1.0,0.19999999999999996,0.85,False,False,False,False
+Nikolas Bowe via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Simon Thelen,ffmpeg-dev@c-14.de,0.25,0.9090909090909091,0.33333333333333337,0.15384615384615385,False,False,False,False
+Nikolas Bowe via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Vittorio Gambaletta (VittGam),ffmpeg-dev@vittgam.net,0.36363636363636365,0.9090909090909091,0.2666666666666667,0.368421052631579,False,False,False,False
+Ole Dittmann,kaptnole@freenet.de,kaptnole,kaptnole@freenet.de,0.30000000000000004,1.0,0.5454545454545454,0.0,False,False,False,False
+Oliver Fromme,oliver@fromme.com,Olivier Langlois,olivier@trillion01.com,0.5517241379310345,0.9230769230769231,0.9230769230769231,0.1428571428571429,False,False,False,False
+Panagiotis H.M. Issaris,takis.issaris@uhasselt.be,Panagiotis H.M. Issaris,takis@issaris.org,1.0,0.5555555555555556,1.0,1.0,False,False,False,False
+Panagiotis H.M. Issaris,takis.issaris@uhasselt.be,Panagiotis Issaris,takis.issaris@uhasselt.be,0.9230769230769231,1.0,1.0,0.8235294117647058,False,False,False,False
+Panagiotis H.M. Issaris,takis@issaris.org,Panagiotis Issaris,takis.issaris@uhasselt.be,0.9230769230769231,0.5555555555555556,1.0,0.8235294117647058,False,False,False,False
+Pascal Massimino,pascal.massimino@gmail.com,skal,pascal.massimino@gmail.com,0.30000000000000004,1.0,0.6,0.0,True,True,False,False
+Patric Stout,patric@liefdeis.com,Patrick Dehne,patrick@mysonicweb.com,0.56,0.9230769230769231,0.9230769230769231,0.0,False,False,False,False
+Patrick Dehne,patrick@mysonicweb.com,Patrik,patrik@yes.nu,0.631578947368421,0.9230769230769231,0.9230769230769231,0.0,False,False,False,False
+Patrick Dehne,patrick@mysonicweb.com,Patrik Kullman,patrik@yes.nu,0.5925925925925926,0.9230769230769231,0.9230769230769231,0.16666666666666663,False,False,False,False
+Patrik,patrik@yes.nu,Patrik Kullman,patrik@yes.nu,0.6,1.0,1.0,0.0,False,False,False,True
+Paul B Mahol,onemda@gmail.com,Paul B. Mahol,onemda@gmail.com,1.0,1.0,1.0,1.0,False,False,False,False
+Paul Flinders,paul@flinders.org,Paul Kelly,paul@stjohnspoint.co.uk,0.5217391304347826,1.0,1.0,0.15384615384615385,False,False,False,False
+Paul Flinders,paul@flinders.org,Paul Kendall,paul@kcbbs.gen.nz,0.56,1.0,1.0,0.2666666666666667,False,False,False,False
+Paul Kelly,paul@stjohnspoint.co.uk,Paul Kendall,paul@kcbbs.gen.nz,0.8181818181818181,1.0,1.0,0.6666666666666667,False,False,False,False
+Peter Cordes,peter@cordes.ca,Peter Holik,peter@holik.at,0.6086956521739131,1.0,1.0,0.18181818181818177,False,False,False,False
+Peter Cordes,peter@cordes.ca,Peter Krefting,peter@softwolves.pp.se,0.6153846153846154,1.0,1.0,0.2857142857142857,False,False,False,False
+Peter Cordes,peter@cordes.ca,Peter Schlaile,peter@schlaile.de,0.6153846153846154,1.0,1.0,0.2857142857142857,False,False,False,False
+Peter Cordes,peter@cordes.ca,Yao Peter,peter@yuvad.com,0.47619047619047616,1.0,0.0,0.18181818181818177,False,False,False,False
+Peter Große,bugs@friiks.de,Peter Große,pegro@friiks.de,1.0,0.2222222222222222,1.0,1.0,False,False,False,False
+Peter Große,bugs@friiks.de,Peter Große,pegro@friks.de,1.0,0.2222222222222222,1.0,1.0,False,False,False,False
+Peter Große,bugs@friiks.de,Peter Ross,pross@xvid.org,0.9090909090909091,0.2222222222222222,1.0,0.8,False,False,False,False
+Peter Große,pegro@friiks.de,Peter Große,pegro@friks.de,1.0,1.0,1.0,1.0,False,False,False,False
+Peter Große,pegro@friiks.de,Peter Ross,pross@xvid.org,0.9090909090909091,0.6,1.0,0.8,False,False,False,False
+Peter Große,pegro@friks.de,Peter Ross,pross@xvid.org,0.9090909090909091,0.6,1.0,0.8,False,False,False,False
+Peter Holik,peter@holik.at,Peter Krefting,peter@softwolves.pp.se,0.56,1.0,1.0,0.15384615384615385,False,False,False,False
+Peter Holik,peter@holik.at,Peter Schlaile,peter@schlaile.de,0.72,1.0,1.0,0.46153846153846156,False,False,False,False
+Peter Holik,peter@holik.at,Yao Peter,peter@yuvad.com,0.5,1.0,0.0,0.0,False,False,False,False
+Peter Krefting,peter@softwolves.pp.se,Peter Schlaile,peter@schlaile.de,0.5,1.0,1.0,0.125,False,False,False,False
+Peter Krefting,peter@softwolves.pp.se,Yao Peter,peter@yuvad.com,0.4347826086956522,1.0,0.0,0.3076923076923077,False,False,False,False
+Peter Meerwald,p.meerwald@bct-electronic.com,Peter Meerwald,pmeerw@pmeerw.net,1.0,0.75,1.0,1.0,False,False,True,False
+Peter Schlaile,peter@schlaile.de,Yao Peter,peter@yuvad.com,0.4347826086956522,1.0,0.0,0.15384615384615385,False,False,False,False
+Petri Hintukainen,phintuka@gmail.com,Petri Hintukainen,phintuka@users.sourceforge.net,1.0,1.0,1.0,1.0,False,False,False,False
+Philip Langdale,philipl@cloudera.com,Philip Langdale,philipl@overt.org,1.0,1.0,1.0,1.0,False,True,False,True
+Philip de Nier,philip.denier@rd.bbc.co.uk,Philip de Nier,philipn@rd.bbc.co.uk,1.0,0.7,1.0,1.0,False,False,False,True
+Pierre Edouard Lepere,Pierre-Edouard.Lepere@insa-rennes.fr,Pierre Edouard Lepere,pierre-edouard.lepere@insa-rennes.fr,1.0,0.8571428571428572,1.0,1.0,False,True,False,False
+Pierre Edouard Lepere,pierre-edouard.lepere@insa-rennes.fr,plepere,pierre-edouard.lepere@insa-rennes.fr,0.5,1.0,0.6153846153846154,0.0,False,True,False,False
+Piotr Bandurski,ami_stuff@o2.pl,ami_stuff,ami_stuff@o2.pl,0.26086956521739135,1.0,0.3076923076923077,0.0,False,False,False,False
+Piotr Fusik,piotr@fusik.info,Piotr Tomasik,piotr@tomasik.co,0.75,1.0,1.0,0.5,False,False,False,True
+Przemysław Sobala,przemyslaw.sobala@gmail.com,Przemysław Sobala,przemyslaw.sobala@grupawp.pl,1.0,1.0,1.0,1.0,True,False,True,False
+Przemysław Sobala,przemyslaw.sobala@gmail.com,Przemysław Sobala,psobala@wp-sa.pl,1.0,0.5833333333333333,1.0,1.0,True,False,True,False
+Przemysław Sobala,przemyslaw.sobala@gmail.com,Przemysław Sobala,pszemus@wp-sa.pl,1.0,0.41666666666666663,1.0,1.0,False,False,True,False
+Przemysław Sobala,przemyslaw.sobala@grupawp.pl,Przemysław Sobala,psobala@wp-sa.pl,1.0,0.5833333333333333,1.0,1.0,True,False,True,False
+Przemysław Sobala,przemyslaw.sobala@grupawp.pl,Przemysław Sobala,pszemus@wp-sa.pl,1.0,0.41666666666666663,1.0,1.0,False,False,True,False
+Przemysław Sobala,psobala@wp-sa.pl,Przemysław Sobala,pszemus@wp-sa.pl,1.0,0.2857142857142857,1.0,1.0,False,False,True,False
+Rafaël Carré,funman@videolan.org,Rafaël Carré,rafael.carre@gmail.com,1.0,0.2222222222222222,1.0,1.0,True,True,False,False
+Rafaël Carré,funman@videolan.org,Rafaël Carré,rafael.carre@savoirfairelinux.com,1.0,0.2222222222222222,1.0,1.0,True,True,False,False
+Rafaël Carré,rafael.carre@gmail.com,Rafaël Carré,rafael.carre@savoirfairelinux.com,1.0,1.0,1.0,1.0,True,True,True,True
+Ramiro Polla,ramiro.polla@gmail.com,Ramiro Polla,ramiro@lisha.ufsc.br,1.0,0.6666666666666667,1.0,1.0,False,False,True,True
+Reimar Döffinger,Reimar.Doeffinger@gmx.de,Reimar Döffinger,git@videolan.org,1.0,0.09999999999999998,1.0,1.0,False,False,False,False
+Reinhard Tartler,siretart@sandy.tauware.de,Reinhard Tartler,siretart@tauware.de,1.0,1.0,1.0,1.0,False,False,False,False
+Reino Wijnsma,rwijnsma@xs4all.nl,Reino17,rwijnsma@xs4all.nl,0.5,1.0,0.8333333333333334,0.0,True,False,False,False
+Reto Kromer,lists@reto.ch,Reto Kromer,rk@reto.ch,1.0,0.0,1.0,1.0,False,False,False,False
+Reto Kromer,lists@reto.ch,Wim Vander Schelden,lists@fixnum.org,0.19999999999999996,1.0,0.0,0.19047619047619047,False,False,False,False
+Reynaldo H. Verdejo Pinochet,r.verdejo@sisa.samsung.com,Reynaldo H. Verdejo Pinochet,reynaldo@opendot.cl,1.0,0.47058823529411764,1.0,1.0,False,False,False,False
+Reynaldo H. Verdejo Pinochet,r.verdejo@sisa.samsung.com,Reynaldo H. Verdejo Pinochet,reynaldo@osg.samsung.com,1.0,0.47058823529411764,1.0,1.0,False,False,False,False
+Reynaldo H. Verdejo Pinochet,reynaldo@opendot.cl,Reynaldo H. Verdejo Pinochet,reynaldo@osg.samsung.com,1.0,1.0,1.0,1.0,False,False,False,False
+Rick Kern,kernrj@gmail.com,Rick Kern,rick@8birdsvideo.com,1.0,0.19999999999999996,1.0,1.0,False,True,True,False
+Rl,addr-see-the-website@aetey.se,addr-see-the-website@aetey.se,addr-see-the-website@aetey.se,0.07692307692307687,1.0,0.07692307692307687,1.0,False,False,False,False
+Rob Sykes,aquegg@yahoo.co.uk,Rob Sykes,robs@users.sourceforge.net,1.0,0.0,1.0,1.0,False,True,False,False
+Robert Edele,yartrebo@earthlink.net,Yartrebo,yartrebo@earthlink.net,0.30000000000000004,1.0,0.2857142857142857,0.0,False,False,False,False
+Robert Krüger,krueger@lesspain.de,Robert Krüger,krueger@signal7.de,1.0,1.0,1.0,1.0,False,False,False,False
+Robert Leatherwood,robertDOTleatherwood@earthlink.net,Robert Leatherwood,robertDOTleatherwood@earthlinknet,1.0,1.0,1.0,1.0,True,True,True,True
+Robert Swain,robert.swain@collabora.co.uk,Robert Swain,robert.swain@gmail.com,1.0,1.0,1.0,1.0,True,True,True,True
+Roberto Togni,r_togni@tiscali.it,Roberto Togni,rxt@rtogni.it,1.0,0.4,1.0,1.0,False,False,True,False
+Roger Pack,rogerdpack2@gmail.com,rogerdpack,rogerpack2005@gmail.com,0.9,0.8333333333333334,0.6666666666666667,0.0,True,True,False,False
+Roman Ryltsov,roman@alax.info,Roman Shaposhnik,roman@shaposhnik.org,0.5517241379310345,1.0,1.0,0.23529411764705888,False,True,False,False
+Ronald Bultje,rbultje@dhcp-172-22-79-135.mtv.corp.google.com,Ronald Bultje,rsbultje@gmail.com,1.0,0.9333333333333333,1.0,1.0,True,False,True,False
+Ronald Bultje,rbultje@dhcp-172-22-79-135.mtv.corp.google.com,Ronald S. Bultje,rbultje@chromium.org,0.9285714285714286,1.0,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rbultje@dhcp-172-22-79-135.mtv.corp.google.com,Ronald S. Bultje,rbultje@gmail.com,0.9285714285714286,1.0,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rbultje@dhcp-172-22-79-135.mtv.corp.google.com,Ronald S. Bultje,rbultje@google.com,0.9285714285714286,1.0,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rbultje@dhcp-172-22-79-135.mtv.corp.google.com,Ronald S. Bultje,rsbultje-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org,0.9285714285714286,0.368421052631579,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rbultje@dhcp-172-22-79-135.mtv.corp.google.com,Ronald S. Bultje,rsbultje@gmail.com,0.9285714285714286,0.9333333333333333,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rsbultje@gmail.com,Ronald S. Bultje,rbultje@chromium.org,0.9285714285714286,0.9333333333333333,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rsbultje@gmail.com,Ronald S. Bultje,rbultje@gmail.com,0.9285714285714286,0.9333333333333333,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rsbultje@gmail.com,Ronald S. Bultje,rbultje@google.com,0.9285714285714286,0.9333333333333333,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rsbultje@gmail.com,Ronald S. Bultje,rsbultje-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org,0.9285714285714286,0.41025641025641024,1.0,0.8571428571428572,True,False,False,False
+Ronald Bultje,rsbultje@gmail.com,Ronald S. Bultje,rsbultje@gmail.com,0.9285714285714286,1.0,1.0,0.8571428571428572,True,False,False,False
+Ronald S. Bultje,rbultje@chromium.org,Ronald S. Bultje,rbultje@gmail.com,1.0,1.0,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@chromium.org,Ronald S. Bultje,rbultje@google.com,1.0,1.0,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@chromium.org,Ronald S. Bultje,rsbultje-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org,1.0,0.368421052631579,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@chromium.org,Ronald S. Bultje,rsbultje@gmail.com,1.0,0.9333333333333333,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@gmail.com,Ronald S. Bultje,rbultje@google.com,1.0,1.0,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@gmail.com,Ronald S. Bultje,rsbultje-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org,1.0,0.368421052631579,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@gmail.com,Ronald S. Bultje,rsbultje@gmail.com,1.0,0.9333333333333333,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@google.com,Ronald S. Bultje,rsbultje-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org,1.0,0.368421052631579,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rbultje@google.com,Ronald S. Bultje,rsbultje@gmail.com,1.0,0.9333333333333333,1.0,1.0,False,False,False,False
+Ronald S. Bultje,rsbultje-Re5JQEeQqe8AvxtiuMwx3w@public.gmane.org,Ronald S. Bultje,rsbultje@gmail.com,1.0,0.41025641025641024,1.0,1.0,False,False,False,False
+Rostislav Pehlivanov,atomnuker@gmail.com,Rostislav Pehlivanov,rpehlivanov@mozilla.com,1.0,0.19999999999999996,1.0,1.0,True,False,False,False
+Rostislav Pehlivanov,atomnuker@gmail.com,Rostislav Pehlivanov,rpehlivanov@ob-encoder.com,1.0,0.19999999999999996,1.0,1.0,True,False,False,False
+Rostislav Pehlivanov,atomnuker@gmail.com,Rostislav Pehlivanov,rpehlivanov@obe.tv,1.0,0.19999999999999996,1.0,1.0,True,False,False,False
+Rostislav Pehlivanov,rpehlivanov@mozilla.com,Rostislav Pehlivanov,rpehlivanov@ob-encoder.com,1.0,1.0,1.0,1.0,True,False,True,False
+Rostislav Pehlivanov,rpehlivanov@mozilla.com,Rostislav Pehlivanov,rpehlivanov@obe.tv,1.0,1.0,1.0,1.0,True,False,True,False
+Rostislav Pehlivanov,rpehlivanov@ob-encoder.com,Rostislav Pehlivanov,rpehlivanov@obe.tv,1.0,1.0,1.0,1.0,True,False,True,False
+Roumen Petrov,ffmpeg@roumenpetrov.info,avcoder,ffmpeg@gmail.com,0.30000000000000004,1.0,0.3076923076923077,0.0,False,False,False,False
+Rudolf Polzer,divVerent@xonotic.org,Rudolf Polzer,divverent@xonotic.org,1.0,0.8888888888888888,1.0,1.0,False,False,False,False
+Ruiling Song,ruiling.song@intel.com,"Ruiling, Song",ruiling.song@intel.com,1.0,1.0,1.0,1.0,True,True,True,True
+Sam Hocevar,sam+ffmpeg@zoy.org,Sam Hocevar,sam@hocevar.net,1.0,0.46153846153846156,1.0,1.0,False,False,False,False
+Sam John via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Simon Thelen,ffmpeg-dev@c-14.de,0.38888888888888884,0.9090909090909091,0.5,0.23076923076923073,False,False,False,False
+Sam John via ffmpeg-devel,ffmpeg-devel@ffmpeg.org,Vittorio Gambaletta (VittGam),ffmpeg-dev@vittgam.net,0.27450980392156865,0.9090909090909091,0.0,0.26315789473684215,False,False,False,False
+Sami Pietila,samipietila@google.com,Sami Pietilä,samipietila@google.com,1.0,1.0,1.0,1.0,True,True,True,True
+Sasi Inguva,isasi-at-google.com@ffmpeg.org,Sasi Inguva,isasi@google.com,1.0,0.41666666666666663,1.0,1.0,False,True,False,True
+"Schenk, Michael",Michael.Schenk@albistechnologies.com,schenk michael,michael.schenk@albistechnologies.com,1.0,0.8571428571428572,1.0,1.0,True,True,False,False
+Sebastien Bechet,s.bechet@av7.net,Sébastien Brochet,blinkseb@xbmc.org,0.9090909090909091,0.25,1.0,0.7692307692307692,False,False,False,False
+Sebastien Zwickert,dilaroga@free.fr,Sebastien Zwickert,dilaroga@gmail.com,1.0,1.0,1.0,1.0,False,False,False,False
+Senthilnathan M,senthil.codr@gmail.com,Senthilnathan M,senthilnathan.maadasamy@gmail.com,1.0,0.5142857142857142,1.0,1.0,True,False,False,False
+Sergey Radionov,RSATom@gmail.com,Sergey Radionov,rsatom@gmail.com,1.0,0.33333333333333337,1.0,1.0,False,False,False,False
+Sergiy,piratfm@gmail.com,Sergiy Gur'yev,piratfm@ua.fm,0.631578947368421,1.0,1.0,0.0,False,False,False,False
+Sergiy,piratfm@gmail.com,tipok,piratfm@gmail.com,0.18181818181818177,1.0,0.18181818181818177,1.0,False,False,False,False
+Sergiy Gur'yev,piratfm@ua.fm,tipok,piratfm@gmail.com,0.11111111111111116,1.0,0.18181818181818177,0.0,False,False,False,False
+Shin-ichi Toyama,shin1@wmail.plala.or.jp,TOYAMA Shin-ichi,shin1@wmail.plala.or.jp,0.5333333333333333,1.0,0.0,0.0,False,False,False,False
+Shitiz Garg,mail-5deEcKV3Bynk1uMJSBkQmQ@public.gmane.org,Shitiz Garg,mail@dragooon.net,1.0,0.25806451612903225,1.0,1.0,False,False,False,False
+Simon Thelen,ffmpeg-dev@c-14.de,Vittorio Gambaletta (VittGam),ffmpeg-dev@vittgam.net,0.2564102564102564,1.0,0.3076923076923077,0.16666666666666663,False,False,False,False
+Srikanth G,gskanth@gmail.com,srikanth,gskanth@gmail.com,0.8888888888888888,1.0,1.0,0.0,True,False,False,False
+Stefan Huehner,stefan@huehner.org,Stefan Lucke,stefan@lucke.in-berlin.de,0.6923076923076923,1.0,1.0,0.33333333333333337,False,False,False,False
+Stefan Huehner,stefan@huehner.org,Stefan de Konink,stefan@.konink.de,0.6,1.0,1.0,0.25,False,False,False,False
+Stefan Lucke,stefan@lucke.in-berlin.de,Stefan de Konink,stefan@.konink.de,0.5714285714285714,1.0,1.0,0.1428571428571429,False,False,False,False
+Stefan _,sfan5@live.de,sfan5,sfan5@live.de,0.7272727272727273,1.0,0.7272727272727273,1.0,False,False,False,False
+Stefano Sabatini,stefano.sabatini-lala@poste.it,Stefano Sabatini,stefasab@gmail.com,1.0,0.5517241379310345,1.0,1.0,False,False,True,True
+Stephen Davies,steve@daviesfam.org,Steve Borho,steve@borho.org,0.4,1.0,0.6666666666666667,0.0,False,False,False,False
+Stephen Davies,steve@daviesfam.org,Steven Robertson,steven@strobe.cc,0.5333333333333333,0.9090909090909091,0.7692307692307692,0.2666666666666667,False,False,False,False
+Stephen Warren,,Steven Johnson,,0.5,1.0,0.7692307692307692,0.15384615384615385,False,False,False,False
+Stephen Warren,,Sysiphus,,0.2727272727272727,1.0,0.4,0.0,False,False,False,False
+Stephen Warren,,XBMC,,0.0,1.0,0.0,0.0,False,False,False,False
+Stephen Warren,,anonymous,,0.17391304347826086,1.0,0.125,0.0,False,False,False,False
+Stephen Warren,,mplayer developers,@mplayerhq.hu,0.25,1.0,0.2857142857142857,0.125,False,False,False,False
+Steve Borho,steve@borho.org,Steven Robertson,steven@strobe.cc,0.6666666666666667,0.9090909090909091,0.9090909090909091,0.4285714285714286,False,False,False,False
+Steve L'Homme,slhomme@divxcorp.com,Steve Lhomme,robUx4@videolabs.io,1.0,0.15384615384615385,1.0,1.0,False,False,True,False
+Steve L'Homme,slhomme@divxcorp.com,Steve Lhomme,robux4@gmail.com,1.0,0.15384615384615385,1.0,1.0,False,False,True,False
+Steve L'Homme,slhomme@divxcorp.com,Steve Lhomme,robux4@videolabs.io,1.0,0.15384615384615385,1.0,1.0,False,False,True,False
+Steve L'Homme,slhomme@divxcorp.com,Steve Lhomme,robux4@ycbcr.xyz,1.0,0.15384615384615385,1.0,1.0,False,False,True,False
+Steve Lhomme,robUx4@videolabs.io,Steve Lhomme,robux4@gmail.com,1.0,0.8333333333333334,1.0,1.0,False,False,False,False
+Steve Lhomme,robUx4@videolabs.io,Steve Lhomme,robux4@videolabs.io,1.0,0.8333333333333334,1.0,1.0,False,False,False,False
+Steve Lhomme,robUx4@videolabs.io,Steve Lhomme,robux4@ycbcr.xyz,1.0,0.8333333333333334,1.0,1.0,False,False,False,False
+Steve Lhomme,robux4@gmail.com,Steve Lhomme,robux4@videolabs.io,1.0,1.0,1.0,1.0,False,False,False,False
+Steve Lhomme,robux4@gmail.com,Steve Lhomme,robux4@ycbcr.xyz,1.0,1.0,1.0,1.0,False,False,False,False
+Steve Lhomme,robux4@videolabs.io,Steve Lhomme,robux4@ycbcr.xyz,1.0,1.0,1.0,1.0,False,False,False,False
+Steven Johnson,,Sysiphus,,0.2727272727272727,1.0,0.1428571428571429,0.0,False,False,False,False
+Steven Johnson,,XBMC,,0.0,1.0,0.0,0.0,False,False,False,False
+Steven Johnson,,anonymous,,0.34782608695652173,1.0,0.1333333333333333,0.0,False,False,False,False
+Steven Johnson,,mplayer developers,@mplayerhq.hu,0.3125,1.0,0.15384615384615385,0.23529411764705888,False,False,False,False
+Steven Liu,lingjiujianke@gmail.com,Steven Liu,lq@chinaffmpeg.org,1.0,0.1333333333333333,1.0,1.0,False,False,False,False
+Steven Walters,kemuri9@gmail.com,kemuri,kemuri9@gmail.com,0.19999999999999996,1.0,0.16666666666666663,0.0,False,False,False,False
+Sumit Agarwal,sumita@nvidia.com,sumit,sumita@nvidia.com,0.5555555555555556,1.0,1.0,0.0,False,True,False,False
+Sven C. Dack,sven.c.dack@sky.com,Sven C. Dack,sven.c.dack@virginmedia.com,1.0,1.0,1.0,1.0,False,True,False,True
+Sven Dueking,sven.dueking@nablet.com,Sven Dueking,sven@nablet.com,1.0,0.5,1.0,1.0,False,False,True,True
+Sylvain Fabre,sylvain@lahiette.com,Sylvain Rabot,sylvain@abstraction.fr,0.7692307692307692,1.0,1.0,0.4,False,False,False,False
+Sysiphus,,XBMC,,0.0,1.0,0.0,1.0,False,False,False,False
+Sysiphus,,anonymous,,0.3529411764705882,1.0,0.3529411764705882,1.0,False,False,False,False
+Sysiphus,,mplayer developers,@mplayerhq.hu,0.23076923076923073,1.0,0.1333333333333333,0.0,False,False,False,False
+Takashi Mochizuki,mochi@da2.so-net.ne,Takashi Mochizuki,mochi@da2.so-net.ne.jp,1.0,1.0,1.0,1.0,False,False,False,False
+Takayuki 'January June' Suwa,jjsuwa.sys3175@gmail.com,Takayuki 'January June' Suwa,jjsuwa@sys3175.com,1.0,0.6,1.0,1.0,False,False,False,False
+Takayuki 'January June' Suwa,jjsuwa.sys3175@gmail.com,Takayuki 'January June' Suwa,jjsuwa@users.noreply.github.com,1.0,0.6,1.0,1.0,False,False,False,False
+Takayuki 'January June' Suwa,jjsuwa@sys3175.com,Takayuki 'January June' Suwa,jjsuwa@users.noreply.github.com,1.0,1.0,1.0,1.0,False,False,False,False
+The makemkv authors,?@makemkv.com,XV,?@?,0.09523809523809523,1.0,0.0,0.0,False,False,False,False
+Thierry FAUCK,thierry@linux.vnet.ibm.com,Thierry Fauck,thierry@linux.vnet.ibm.com,1.0,1.0,1.0,1.0,False,False,False,False
+Thijs,thijsvermeir@telenet.be,Thijs Vermeir,thijs.vermeir@barco.com,0.5555555555555556,0.96,1.0,0.0,False,False,True,True
+Thilo Borgmann,borgmann@nue170.nue.tu-berlin.de,Thilo Borgmann,thilo.borgmann at mail.de,1.0,0.48484848484848486,1.0,1.0,True,True,False,False
+Thilo Borgmann,borgmann@nue170.nue.tu-berlin.de,Thilo Borgmann,thilo.borgmann@googlemail.com,1.0,0.7272727272727273,1.0,1.0,True,True,False,False
+Thilo Borgmann,borgmann@nue170.nue.tu-berlin.de,Thilo Borgmann,thilo.borgmann@mail.de,1.0,0.7272727272727273,1.0,1.0,True,True,False,False
+Thilo Borgmann,thilo.borgmann at mail.de,Thilo Borgmann,thilo.borgmann@googlemail.com,1.0,0.717948717948718,1.0,1.0,True,True,True,True
+Thilo Borgmann,thilo.borgmann at mail.de,Thilo Borgmann,thilo.borgmann@mail.de,1.0,0.717948717948718,1.0,1.0,True,True,True,True
+Thilo Borgmann,thilo.borgmann@googlemail.com,Thilo Borgmann,thilo.borgmann@mail.de,1.0,1.0,1.0,1.0,True,True,True,True
+Thomas Guillem,thomas.guillem@gmail.com,Thomas Guillem,thomas@gllm.fr,1.0,0.6,1.0,1.0,False,False,True,True
+Thomas Guillem,thomas@gllm.fr,Thomas Stephens,thomas@ustudio.com,0.5517241379310345,1.0,1.0,0.1333333333333333,False,False,False,True
+Thomas Guillem,thomas@gllm.fr,Thomas Volkert,thomas@homer-conferencing.com,0.6428571428571428,1.0,1.0,0.2857142857142857,False,False,False,False
+Thomas Guillem,thomas@gllm.fr,Thomas Volkert,thomas@netzeal.de,0.6428571428571428,1.0,1.0,0.2857142857142857,False,False,False,False
+Thomas Guillem,thomas@gllm.fr,ThomasVolkert,thomas@homer-conferencing.com,0.5925925925925926,1.0,0.631578947368421,0.0,False,False,False,False
+Thomas Mundt,loudmax-at-yahoo.de@ffmpeg.org,Thomas Mundt,loudmax@yahoo.de,1.0,0.5384615384615384,1.0,1.0,False,False,False,False
+Thomas Mundt,loudmax-at-yahoo.de@ffmpeg.org,Thomas Mundt,tmundt75@gmail.com,1.0,0.2222222222222222,1.0,1.0,True,False,False,False
+Thomas Mundt,loudmax@yahoo.de,Thomas Mundt,tmundt75@gmail.com,1.0,0.2666666666666667,1.0,1.0,True,False,False,False
+Thomas Raivio,tjraivio@cc.hut.fi,tjraivio@cc.hut.fi,tjraivio@cc.hut.fi,0.5,1.0,0.19047619047619047,0.0,True,False,False,False
+Thomas Stephens,thomas@ustudio.com,Thomas Volkert,thomas@homer-conferencing.com,0.5517241379310345,1.0,1.0,0.1333333333333333,False,True,False,False
+Thomas Stephens,thomas@ustudio.com,Thomas Volkert,thomas@netzeal.de,0.5517241379310345,1.0,1.0,0.1333333333333333,False,True,False,False
+Thomas Stephens,thomas@ustudio.com,ThomasVolkert,thomas@homer-conferencing.com,0.5,1.0,0.631578947368421,0.0,False,True,False,False
+Thomas Volkert,silvo@gmx.net,Thomas Volkert,thomas.volkert@net-zeal.com,1.0,0.3157894736842105,1.0,1.0,True,True,False,False
+Thomas Volkert,silvo@gmx.net,Thomas Volkert,thomas@homer-conferencing.com,1.0,0.18181818181818177,1.0,1.0,False,False,False,False
+Thomas Volkert,silvo@gmx.net,Thomas Volkert,thomas@netzeal.de,1.0,0.18181818181818177,1.0,1.0,False,False,False,False
+Thomas Volkert,silvo@gmx.net,ThomasVolkert,thomas@homer-conferencing.com,0.962962962962963,0.18181818181818177,0.631578947368421,0.0,False,False,False,False
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@homer-conferencing.com,1.0,0.6,1.0,1.0,False,False,True,True
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@netzeal.de,1.0,0.6,1.0,1.0,False,False,True,True
+Thomas Volkert,thomas.volkert@net-zeal.com,ThomasVolkert,thomas@homer-conferencing.com,0.962962962962963,0.6,0.631578947368421,0.0,False,False,False,False
+Thomas Volkert,thomas@homer-conferencing.com,Thomas Volkert,thomas@netzeal.de,1.0,1.0,1.0,1.0,False,False,False,False
+Thomas Volkert,thomas@homer-conferencing.com,ThomasVolkert,thomas@homer-conferencing.com,0.962962962962963,1.0,0.631578947368421,0.0,False,False,False,False
+Thomas Volkert,thomas@netzeal.de,ThomasVolkert,thomas@homer-conferencing.com,0.962962962962963,1.0,0.631578947368421,0.0,False,False,False,False
+Tim Allen,tim@proximity.com.au,Timofei V. Bondarenko,tim@ipi.ac.ru,0.48275862068965514,1.0,0.6,0.3529411764705882,False,False,False,False
+Tim Nicholson,Tim.Nicholson@bbc.co.uk,Tim Nicholson,tim.nicholson@bbc.co.uk,1.0,0.8461538461538461,1.0,1.0,True,True,False,False
+Tim Nicholson,Tim.Nicholson@bbc.co.uk,Tim.Nicholson,tim.nicholson@bbc.co.uk,0.96,0.8461538461538461,0.4,0.0,True,True,False,False
+Tim Nicholson,tim.nicholson@bbc.co.uk,Tim.Nicholson,tim.nicholson@bbc.co.uk,0.96,1.0,0.4,0.0,True,True,False,False
+Tim W,tdskywalker@gmail.com,Tim Walker,tdskywalker@gmail.com,0.6666666666666667,1.0,1.0,0.2857142857142857,True,False,True,False
+Tobias Rapp,t.rapp@noa-archive.com,Tobias Rapp,t.rapp@noa-audio.com,1.0,1.0,1.0,1.0,True,False,True,False
+Tomas Härdin,Tomas.hardin@codemill.se,Tomas Härdin,tjoppen@acc.umu.se,1.0,0.21052631578947367,1.0,1.0,False,False,False,False
+Tomas Härdin,Tomas.hardin@codemill.se,Tomas Härdin,tomas.hardin at codemill.se,1.0,0.5641025641025641,1.0,1.0,True,True,False,False
+Tomas Härdin,Tomas.hardin@codemill.se,Tomas Härdin,tomas.hardin@codemill.se,1.0,0.9166666666666666,1.0,1.0,True,True,False,False
+Tomas Härdin,tjoppen@acc.umu.se,Tomas Härdin,tomas.hardin at codemill.se,1.0,0.17647058823529416,1.0,1.0,True,True,False,False
+Tomas Härdin,tjoppen@acc.umu.se,Tomas Härdin,tomas.hardin@codemill.se,1.0,0.3157894736842105,1.0,1.0,True,True,False,False
+Tomas Härdin,tomas.hardin at codemill.se,Tomas Härdin,tomas.hardin@codemill.se,1.0,0.6153846153846154,1.0,1.0,True,True,True,True
+Tomer Barletz,barlety@gmail.com,Tomer Barletz,barletz@gmail.com,1.0,0.8571428571428572,1.0,1.0,True,False,False,False
+Tristan Matthews,le.businessman@gmail.com,Tristan Matthews,tmatth@videolan.org,1.0,0.19999999999999996,1.0,1.0,False,False,False,False
+Tucker DiNapoli,T.DiNapoli42@gmail.com,Tucker DiNapoli,t.dinapoli42@gmail.com,1.0,0.75,1.0,1.0,True,False,False,False
+Tudor Suciu,tudor.suciu@gmail.com,Tudor.Suciu,tudor.suciu@gmail.com,0.9523809523809523,1.0,0.6666666666666667,0.0,True,True,False,False
+Uoti Urpala,uau@glyph.nonexistent.invalid,Uoti Urpala,uau@mplayer2.org,1.0,1.0,1.0,1.0,False,False,False,False
+Uoti Urpala,uau@glyph.nonexistent.invalid,Uoti Urpala,uoti.urpala.pp1.inet.fi,1.0,0.15384615384615385,1.0,1.0,True,True,False,False
+Uoti Urpala,uau@glyph.nonexistent.invalid,Uoti Urpala,uoti.urpala@pp1.inet.fi,1.0,0.2857142857142857,1.0,1.0,True,True,False,False
+Uoti Urpala,uau@mplayer2.org,Uoti Urpala,uoti.urpala.pp1.inet.fi,1.0,0.15384615384615385,1.0,1.0,True,True,False,False
+Uoti Urpala,uau@mplayer2.org,Uoti Urpala,uoti.urpala@pp1.inet.fi,1.0,0.2857142857142857,1.0,1.0,True,True,False,False
+Uoti Urpala,uoti.urpala.pp1.inet.fi,Uoti Urpala,uoti.urpala@pp1.inet.fi,1.0,0.6470588235294117,1.0,1.0,True,True,True,True
+Vadim Kalinsky,vadim@kalinsky.ru,Vadim Kalinsky,vkalinsky@Q.local,1.0,0.4285714285714286,1.0,1.0,True,False,False,False
+Valery Kot,valery.kot@4cinsights.com,vkot,valery.kot@4cinsights.com,0.5714285714285714,1.0,0.19999999999999996,0.0,True,True,False,False
+Vicente Olivert Riera,Vincent.Riera at imgtec.com,Vicente Olivert Riera,Vincent.Riera@imgtec.com,1.0,0.65,1.0,1.0,False,False,False,False
+Vignesh Venkatasubramanian,vigneshv-at-google.com@ffmpeg.org,Vignesh Venkatasubramanian,vigneshv@google.com,1.0,0.5333333333333333,1.0,1.0,False,True,False,True
+Vitor Sessak,vitor1001@gmail.com,Vitor Sessak,vsessak@google.com,1.0,0.125,1.0,1.0,True,False,False,False
+Vittorio Giovara,vittorio.giovara at gmail.com,Vittorio Giovara,vittorio.giovara@gmail.com,1.0,0.7111111111111111,1.0,1.0,True,True,True,True
+Vladimir Pantelic,pan@nt.tu-darmstadt.de,Vladimir Pantelic,vladoman@gmail.com,1.0,0.36363636363636365,1.0,1.0,False,False,False,False
+Víctor Paesa,victorpaesa@googlemail.com,Víctor Paesa,wzrlpy@arsystel.com,1.0,0.23529411764705888,1.0,1.0,False,False,True,True
+Wan-Teh Chang,wtc-at-google.com@ffmpeg.org,Wan-Teh Chang,wtc@google.com,1.0,0.30000000000000004,1.0,1.0,False,False,False,False
+Wang Bin,wbsecg1@gmail.com,wang-bin,wbsecg1@gmail.com,0.9333333333333333,1.0,0.7272727272727273,0.0,False,False,False,False
+Werner Robitza,slhck@users.noreply.github.com,Werner Robitza,werner.robitza@gmail.com,1.0,0.0,1.0,1.0,True,True,False,False
+Werner Robitza,werner.robitza@gmail.com,slhck,werner.robitza@gmail.com,0.0,1.0,0.0,0.0,True,True,False,False
+Wolfram Gloger,video06@malloc.de,Wolfram Gloger,wmglo@dent.med.uni-muenchen.de,1.0,0.16666666666666663,1.0,1.0,False,False,False,False
+Wolfram Gloger,video06@malloc.de,wg,video06@malloc.de,0.25,1.0,0.2222222222222222,0.0,False,False,False,False
+XBMC,,anonymous,,0.15384615384615385,1.0,0.15384615384615385,1.0,False,False,False,False
+XBMC,,mplayer developers,@mplayerhq.hu,0.09090909090909094,1.0,0.18181818181818177,0.0,False,False,False,False
+Xiaolei Yu,dreifachstein@gmail.com,Yu Xiaolei,dreifachstein@gmail.com,0.7,1.0,0.0,0.0,False,False,False,False
+Xidorn Quan,quanxunzhen@gmail.com,upsuper,quanxunzhen@gmail.com,0.11111111111111116,1.0,0.15384615384615385,0.0,True,False,False,False
+Yang Wang,yang.y.wang@intel.com,yang,yang.y.wang@intel.com,0.6153846153846154,1.0,1.0,0.0,True,True,False,False
+Yoshihisa Uchida,yoshihisa.uchida@gmail.com,内田佳久,yoshihisa.uchida@gmail.com,0.0,1.0,0.0,0.0,True,True,False,False
+Zalewa,zalewapl@gmail.com,Zalewa PL,zalewapl@gmail.com,0.8,1.0,1.0,0.0,False,False,True,True
+Zdenek Kabelac,kabi@informatics.muni.cz,Zdenek Kabelac,zdenek.kabelac@gmail.com,1.0,0.33333333333333337,1.0,1.0,True,True,False,False
+Zeng Zhaoxiu,zhaoxiu.zeng@gmail.com,Zhaoxiu Zeng,zhaoxiu.zeng@gmail.com,0.5833333333333333,1.0,0.18181818181818177,0.18181818181818177,True,True,True,True
+Zeng Zhaoxiu,zhaoxiu.zeng@gmail.com,zhaoxiu.zeng,zhaoxiu.zeng@gmail.com,0.6086956521739131,1.0,0.5333333333333333,0.0,True,True,False,False
+Zhao Zhili,quinkblack@foxmail.com,Zhao Zhili,wantlamy@gmail.com,1.0,0.33333333333333337,1.0,1.0,False,False,False,False
+Zhaoxiu Zeng,zhaoxiu.zeng@gmail.com,zhaoxiu.zeng,zhaoxiu.zeng@gmail.com,0.9565217391304348,1.0,0.7777777777777778,0.0,True,True,False,False
+Zhentan Feng,spyfeng@gmail.com,zhentan feng,spyfeng@gmail.com,1.0,1.0,1.0,1.0,False,False,False,False
+Zhou Xiaoyong,zhouxiaoyong@loongson.cn,ZhouXiaoyong,zhouxiaoyong@loongson.cn,0.96,1.0,0.5,0.0,True,True,False,False
+Zhou Xiaoyong,zhouxiaoyong@loongson.cn,周晓勇,zhouxiaoyong@loongson.cn,0.0,1.0,0.0,0.0,True,True,False,False
+ZhouXiaoyong,zhouxiaoyong@loongson.cn,周晓勇,zhouxiaoyong@loongson.cn,0.0,1.0,0.0,1.0,False,False,False,False
+ami_stuff,amiUNDERSCOREstuff@o2.pl,ami_stuff,ami_stuff@o2.pl,1.0,0.5925925925925926,1.0,1.0,False,False,False,False
+anatoly,anatoly.nenashev at,anatoly,anatoly.nenashev@ovsoft.ru,1.0,0.9142857142857143,1.0,1.0,False,False,False,False
+anonymous,,anonymous,anonymous,1.0,0.0,1.0,1.0,False,False,False,False
+anonymous,,mplayer developers,@mplayerhq.hu,0.2962962962962963,1.0,0.25,0.0,False,False,False,False
+clook,build@localhost.localdomain,clook,olivier.cloirec@free.fr,1.0,0.19999999999999996,1.0,1.0,False,False,False,False
+compn,tempn@mi.rr.com,compn,tempn@twmi.rr.com,1.0,1.0,1.0,1.0,False,False,False,False
+d s,avxsynth-testing@gmail.com,d s,avxsynth.testing@gmail.com,1.0,0.9375,1.0,1.0,False,False,False,False
+db0,db0company@gmail.com,db0company,db0company@gmail.com,0.46153846153846156,1.0,0.46153846153846156,1.0,False,False,False,False
+elupus,elupus@ecce.se,elupus,elupus@xbmc.org,1.0,1.0,1.0,1.0,False,False,False,False
+hwren,hwrenx@126.com,hwrenx,hwrenx@126.com,0.9090909090909091,1.0,0.9090909090909091,1.0,False,False,False,False
+j@v2v.cc,j@v2v.cc,jan gerber,j@v2v.cc,0.125,1.0,0.2222222222222222,0.0,False,False,False,False
+raymondzheng,raymondzheng1412@gmail.com,raymondzheng1412@gmail.com,raymondzheng1412@gmail.com,0.6666666666666667,1.0,0.6666666666666667,1.0,False,False,False,False
+sanil,raut.sanil@gmail.com,sanilraut,raut.sanil@gmail.com,0.7142857142857143,1.0,0.7142857142857143,1.0,False,False,False,False
+tiejun.peng,tiejun.peng@foxmail.com,tiejun.peng@foxmail.com,tiejun.peng@foxmail.com,0.6666666666666667,1.0,0.6666666666666667,1.0,False,False,False,False
+wm4,nfxjfg at googlemail.com,wm4,nfxjfg@googlemail.com,1.0,0.4,1.0,1.0,False,False,False,False
+zylthinking,zylthinking@gmail.com,赵宇龙,zylthinking@gmail.com,0.0,1.0,0.0,1.0,False,False,False,False
+İsmail Dönmez,ismail@i10z.com,İsmail Dönmez,ismail@namtrac.org,1.0,1.0,1.0,1.0,False,False,False,False
