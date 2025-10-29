@@ -1,10 +1,61 @@
-<|end|><|start|>assistant<|channel|>final<|message|>name_1,email_1,name_2,email_2,confidence_reason
-Alexander Kravchenko,AAKravchenko@luxoft.com,Alexander Kravchenko,akravchenko188@gmail.com,"Same first/last name; two distinct corporate and personal addresses – highly likely the same person."
-Alexander Drozdov,adrozdoff@gmail.com,Alexander S. Drozdov,adrozdoff@gmail.com,"Exact same e‑mail with only a middle initial added – almost certain duplicate."
-Laurent Aimar,fenrir@elivagar.org,Laurent Aimar,fenrir@via.ecp.fr,"Same base address (fenrir) used on two different domains; common practice for the same developer."
-Laurent Aimar,fenrir@elivagar.org,Laurent Aimar,fenrir@videolan.org,"Same base address with three distinct domain suffixes – strongly indicates one person using multiple aliases."
-Paul B Mahol,onemda@gmail.com,Paul B. Mahol,onemda@gmail.com,"Identical e‑mail but name formatted differently (period vs none) – almost certainly the same individual."
-Thomas Mundt,loudmax-at-yahoo.de@ffmpeg.org,Thomas Mundt,loudmax@yahoo.de,"Same username 'loudmax' on two Yahoo‑derived addresses; very likely a single developer."
-Thomas Mundt,loudmax-at-yahoo.de@ffmpeg.org,Thomas Mundt,tmundt75@gmail.com,"Same name with three distinct e‑mail accounts – high confidence the same person."
-Tomas Härdin,Tomas.hardin@codemill.se,Tomas Härdin,tjoppen@acc.umu.se,"Identical name but two different addresses; both associated with the same project (Codemill) – strong indication of a single developer."
-David Bryant,david@WavPack.com,David Bryant,david@wavpack.com,"Same e‑mail differing only in case; duplicate record for one person."
+name_1,email_1,name_2,email_2,reason
+Alex Converse,alex.converse@gmail.com,Alex Converse,aconverse@google.com,same name, different email
+Alex Converse,alex.converse@gmail.com,Alex Converse,alexconv@twitch.tv,same name, different email
+Alexander Drozdov,adrozdoff@gmail.com,Alexander S. Drozdov,adrozdoff@gmail.com,same email, different names (variant)
+Andrew Stone,a@stoney.io,Andrew Stone,andrew@clovar.com,same name, different email
+Ben Hutchings,ben@decadent.org.uk,Ben Hutchings,benc@nvidia.com? (no duplicate)
+Alan Curry,pacman@TheWorld.com,Alan Curry,pacman@world.std.com,same name, different email
+Bela Bodecs,bodecsb@vivanet.hu,Bodecs Bela,bodecsb@vivanet.hu,same email, different name order
+A. Wilcox,AWilcox@Wilcox-Tech.com,A. Wilcox,(no duplicate)
+Alexander Kravchenko,AAKravchenko@luxoft.com,Alexander Kravchenko,akravchenko188@gmail.com,same name, different email
+Alexandre Colucci,alexandre@elgato.com,Alexandre Lision,alexandre.lision@savoirfairelinux.com,same first name, different last name
+Federico Tomassetti,f.tomassetti@gmail.com,Federico Tomassetti,federico@tomassetti.me,"Same name, different email accounts"
+Federico Tomassetti,f.tomassetti@gmail.com,Federico Tomassetti,f.tomassetti@groupon.com,"Same name, different email accounts"
+Federico Tomassetti,f.tomassetti@gmail.com,Federico Tomassetti,federico.simoncelli@gmail.com? (no same)
+Felix Bünemann,Felix.Buenemann@gmx.de,Felix Bünemann,atmosfear@users.sourceforge.net,"Same name, different email accounts"
+Gwenole Beauchesne,gb.devel@gmail.com,Gwenole Beauchesne,gbeauchesne@splitted-desktop.com,"Same name, different email accounts"
+Gwenole Beauchesne,gb.devel@gmail.com,Gwenole Beauchesne,git@videolan.org,"Same name, different email accounts"
+Gwenole Beauchesne,gb.devel@gmail.com,Gwenole Beauchesne,gwenole.beauchesne@intel.com,"Same name, different email accounts"
+Jacek Jendrzej,overx300@gmail.com,Jacek Jendrzej,satbaby@kawaii.com,"Same name, different email accounts"
+Jon Toohill,jtoohill-at-google.com@ffmpeg.org,Jon Toohill,jtoohill@google.com,"Same name, different email accounts"
+Jorge Ramirez-Ortiz,jorge.ramirez-ortiz@linaro.org,Jorge Ramirez-Ortiz,jramirez@baylibre.com,"Same name, different email accounts"
+Karthick Jeyapal,kjeyapal@akamai.com,Karthick Jeyapal,kjeyapal@akamai.com (duplicate entry)
+Leon van Stuivenberg,l.vanstuivenberg@chello.nl,Leon van Stuivenberg,leonvs@iae.nl,"Same name, different email accounts"
+Loren Merritt,lorenm@u.washington.edu,Loren Merritt,pengvado@akuvian.org,"Same name, different email accounts"
+Lucas Cooper,bobobo-at-google.com@ffmpeg.org,Lucas Cooper,bobobo@google.com,"Same name, different email accounts"
+Sebastian Dröge,sebas@centricular.com,Sebastian Dröge,sebastian@centricular.com,exact name, different email
+Sebastien Zwickert,dilaroga@free.fr,Sebastien Zwickert,dilaroga@gmail.com,name matches, two emails
+Sebastián Zwickert,dilaroga@free.fr,Sebastien Zwickert,dilaroga@gmail.com,case & diacritics ignored
+Senthilnathan M,senthil.codr@gmail.com,Senthilnathan M,senthilnathan.maadasamy@gmail.com,name same, two emails
+Shitiz Garg,mail-5deEcKV3Bynk1uMJSBkQmQ@public.gmane.org,Shitiz Garg,mail@dragooon.net,name same, two emails
+Sergiy,piratfm@gmail.com,Sergiy,piatfm@gmail.com,typo in email (same user)
+Sergey Radionov,RSATom@gmail.com,Sergey Radionov,rsatom@gmail.com,email case difference
+Shivraj Patil,shivraj.patil@imgtec.com,Shivraj Patil,shivraj.patil@imgtec.com,duplicate identical line
+Shiyou Yin,yinshiyou-hf@loongson.cn,Shiyou Yin,yinshiyou-hf@loongson.cn,duplicate identical line
+Stelina H. Gunderson,steinar+ffmpeg@gunderson.no,Steinar H. Gunderson,steinar+ffmpeg@gunderson.no,name misspelling
+Sven C. Dack,sven.c.dack@sky.com,Sven C. Dack,sven.c.dack@virginmedia.com,email diff
+Sven Dueking,sven.dueking@nablet.com,Sven Dueking,sven@nablet.com,email diff
+Steven Liu,lingjiujianke@gmail.com,Steven Liu,lq@chinaffmpeg.org,email diff
+Steven M. Schultz,sms@2bsd.com,Steven M. Schultz,sms@2bsd.com,duplicate identical line
+Stephan Soller,stephan.soller@helionweb.de,Stephan Soller,stephan.soller@helionweb.de,duplicate identical line
+Sven C. Dack,sven.c.dack@sky.com,Sven C. Dack,sven.c.dack@virginmedia.com,name same diff email
+Sven Dueking,sven.dueking@nablet.com,Sven Dueking,sven@nablet.com,name same diff email
+Stephan Soller,stephan.soller@helionweb.de,Stephan Soller,stephan.soller@helionweb.de,duplicate identical line
+Sven C. Dack,sven.c.dack@sky.com,Sven C. Dack,sven.c.dack@virginmedia.com,name same diff email
+Tomas Härdin,tomas.hardin@codemill.se,Tomas Härdin,tjoppen@acc.umu.se,email diff
+Tomas Härdin,tomas.hardin at codemill.se,Tomas Härdin,tomasi.hardin@codemill.se,email diff
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@homer-conferencing.com,email diff
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@netzeal.de,email diff
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@homer-conferencing.com,email diff
+Tom R.,tdskywalker@gmail.com,Tom Walker,tdskywalker@gmail.com,name similar email same user
+Tom R.,tdskywalker@gmail.com,Tim W,tdskywalker@gmail.com,name similar email same user
+Timo Lindfors,lindi@kurp.hut.fi,Timo Lindfors,lindi@kurp.hut.fi,duplicate identical line
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@homer-conferencing.com,email diff
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@netzeal.de,email diff
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@homer-conferencing.com,email diff
+Thilo Borgmann,borgmann@nue170.nue.tu-berlin.de,Thilo Borgmann,thilo.borgmann at mail.de,email diff
+Thilo Borgmann,borgmann@nue170.nue.tu-berlin.de,Thilo Borgmann,thilo.borgmann@googlemail.com,email diff
+Thilo Borgmann,borgmann@nue170.nue.tu-berlin.de,Thilo Borgmann,thilo.borgmann@mail.de,email diff
+Thomas Volkert,thomas.volkert@net-zeal.com,Thomas Volkert,thomas@homer-conferencing.com,email diff
+wm4,nfxjfg at googlemail.com,wm4,nfxjfg@googlemail.com,"identical name different email format"
+孙浩 and 张洪亮(望初) tony.sh and wangchu.zhl@alibaba-inc.com,tony.sh@alibaba-inc.com,孙浩(晓黑),tony.sh@alibaba-inc.com,"same email with different name variations"
